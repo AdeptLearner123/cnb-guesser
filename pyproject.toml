@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "cnb-guesser"
+version = "0.1.0"
+description = ""
+authors = ["Nalu Zou"]
+readme = "README.md"
+packages = [{include = "cnb_guesser"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+
+[tool.poetry.scripts]
+generate-guesses = "cnb_clue_generator.generate_guesses:main"
+evaluate-guesses    = "cnb_clue_generator.evaluate_guesses:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,14 @@
+Find the 2 words from the given words that are most related to the given clue.
+
+Words: JOBS, DIGESTION, BRAZIL
+Clue: APPLE
+
+First let's see why APPLE might be related to each of the given words.
+
+JOBS: Steve Jobs is the founder of Apple Inc.
+DIGESTION: Digestion is the process of breaking down food, such as after eating an apple.
+Brazil: Apples might be produced in Brazil, but there is otherwise not much of a relation.
+
+The two words that are most related to the given clue are JOBS and DIGESTION.
+
+Answer: JOBS, DIGESTION
