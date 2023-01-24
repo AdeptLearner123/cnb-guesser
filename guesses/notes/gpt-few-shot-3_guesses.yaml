@@ -1,0 +1,7257 @@
+0542c82f-e431-4f00-978a-c3040c9fa1bd:
+- completion: 'First let''s see why FLYING might be related to each of the given words.
+
+
+    SCALE: A scale can measure the weight of a flying object.
+
+    HAWK: Hawks are birds that can fly.
+
+    AMERICA: The American flag is often flown.
+
+    TOWER: A tower can be used to observe flying objects.
+
+    BAT: Bats are mammals that can fly.
+
+    POISON: Poison can be used to kill flying insects.
+
+    SCORPION: Scorpions can fly.
+
+    SHOT: A shot can be fired at a flying object.
+
+
+    The two words that are most related to the given clue are HAWK and BAT.
+
+
+    Answer: HAWK, BAT'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: SCALE, HAWK, AMERICA, TOWER, BAT, POISON, SCORPION, SHOT
+
+    Clue: FLYING
+
+    '
+12b79d06-a22d-47bc-8b13-c8b3f9f3c378:
+- completion: 'First let''s see why BODY might be related to each of the given words.
+
+
+    AUSTRALIA: The human body is made up of many parts, some of which are found in
+    Australia.
+
+    FIGURE: A figure can be a representation of a human body.
+
+    BELL: Bells are often used to signal the start and end of a bodybuilding competition.
+
+    LIGHT: Light is essential for the body to function properly.
+
+    HAND: Hands are part of the human body.
+
+    CANADA: Canada is home to many bodybuilding competitions.
+
+    CAR: Cars are designed to protect the body in the event of an accident.
+
+    MINE: Mines can be dangerous for the human body.
+
+
+    The two words that are most related to the given clue are HAND and FIGURE.
+
+
+    Answer: HAND, FIGURE'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: AUSTRALIA, FIGURE, BELL, LIGHT, HAND, CANADA, CAR, MINE
+
+    Clue: BODY
+
+    '
+182d98a0-ff78-433e-ac8e-c3b8da9c4f5b:
+- completion: 'First let''s see why PACKAGE might be related to each of the given
+    words.
+
+
+    MAIL: Packages can be sent through the mail.
+
+    BOX: Packages are often stored in boxes.
+
+    CAR: Packages can be delivered by car.
+
+    FIGURE: Packages can be shaped like a figure.
+
+    LINK: Packages can be linked together.
+
+    TIE: Packages can be tied together.
+
+    JET: Packages can be delivered by jet.
+
+    SWING: Packages can be swung around.
+
+
+    The two words that are most related to the given clue are BOX and TIE.
+
+
+    Answer: BOX, TIE'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: MAIL, BOX, CAR, FIGURE, LINK, TIE, JET, SWING
+
+    Clue: PACKAGE
+
+    '
+18344685-887e-4985-b295-f7b84ff98d07:
+- completion: 'First let''s see why COLD might be related to each of the given words.
+
+
+    SQUARE: A square can be cold to the touch.
+
+    GIANT: Giants are often associated with cold climates.
+
+    FIRE: Fire can be used to keep warm in cold weather.
+
+    CONCERT: Concerts can be held in cold weather.
+
+    ICE: Ice is cold.
+
+    SNOWMAN: Snowmen are associated with cold weather.
+
+    LOCK: Locks can freeze in cold weather.
+
+    CLIFF: Cliffs can be cold.
+
+
+    The two words that are most related to the given clue are ICE and SNOWMAN.
+
+
+    Answer: ICE, SNOWMAN'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: SQUARE, GIANT, FIRE, CONCERT, ICE, SNOWMAN, LOCK, CLIFF
+
+    Clue: COLD
+
+    '
+1acbc5a2-a355-44f2-94e4-54503ca5999f:
+- completion: 'First let''s see why PICKAXE might be related to each of the given
+    words.
+
+
+    KANGAROO: A pickaxe could be used to dig for kangaroo burrows.
+
+    TIME: A pickaxe can be used to break rocks in a certain amount of time.
+
+    STRIKE: A pickaxe can be used to strike rocks.
+
+    COLD: A pickaxe can be used to break through ice and snow in cold climates.
+
+    CYCLE: A pickaxe can be used to break rocks in a cycle.
+
+    BAND: A pickaxe can be used to break through rocks in a band.
+
+    DIAMOND: A pickaxe can be used to mine for diamonds.
+
+    CONTRACT: A pickaxe can be used in a contract for mining.
+
+
+    The two words that are most related to the given clue are DIAMOND and CONTRACT.
+
+
+    Answer: DIAMOND, CONTRACT'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: KANGAROO, TIME, STRIKE, COLD, CYCLE, BAND, DIAMOND, CONTRACT
+
+    Clue: PICKAXE
+
+    '
+1e51775a-6a30-4771-9431-62d506b7ff38:
+- completion: 'First let''s see why INSTRUMENT might be related to each of the given
+    words.
+
+
+    BUGLE: A bugle is a brass instrument.
+
+    VAN: A van is not an instrument.
+
+    FIGURE: A figure is not an instrument.
+
+    BELL: A bell is a percussion instrument.
+
+    ALPS: The Alps are not an instrument.
+
+    DRAFT: A draft is not an instrument.
+
+    CODE: A code is not an instrument.
+
+    DAY: A day is not an instrument.
+
+
+    The two words that are most related to the given clue are BUGLE and BELL.
+
+
+    Answer: BUGLE, BELL'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: BUGLE, VAN, FIGURE, BELL, ALPS, DRAFT, CODE, DAY
+
+    Clue: INSTRUMENT
+
+    '
+1eccbf1b-bf56-45c1-a934-763493bd4950:
+- completion: 'First let''s see why LEGISLATION might be related to each of the given
+    words.
+
+
+    DRAFT: Legislation is often drafted before it is passed.
+
+    NURSE: Nurses may be affected by legislation.
+
+    AFRICA: Legislation in Africa may be different than in other countries.
+
+    BILL: Legislation is often referred to as a bill.
+
+    LION: Lions are not related to legislation.
+
+    IVORY: Ivory is not related to legislation.
+
+    DRAGON: Dragons are not related to legislation.
+
+    SHARK: Sharks are not related to legislation.
+
+
+    The two words that are most related to the given clue are DRAFT and BILL.
+
+
+    Answer: DRAFT, BILL'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: DRAFT, NURSE, AFRICA, BILL, LION, IVORY, DRAGON, SHARK
+
+    Clue: LEGISLATION
+
+    '
+2414344d-448d-44dc-a5ac-5a017c086de5:
+- completion: 'First let''s see why BAKING might be related to each of the given words.
+
+
+    SLUG: Baking soda is often used in baking.
+
+    BELT: A baking belt is used to keep dough in place.
+
+    CHEST: A baking chest is used to store baking supplies.
+
+    LAB: A baking lab is used to test recipes.
+
+    BEAT: Baking often involves beating ingredients together.
+
+    COPPER: Copper baking pans are often used.
+
+    LOCK: A baking lock is used to secure baking ingredients.
+
+    HONEY: Honey is often used in baking.
+
+
+    The two words that are most related to the given clue are BELT and HONEY.
+
+
+    Answer: BELT, HONEY'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: SLUG, BELT, CHEST, LAB, BEAT, COPPER, LOCK, HONEY
+
+    Clue: BAKING
+
+    '
+2a5b101f-4258-491b-9a69-d86043b2497e:
+- completion: 'First let''s see why WOODEN might be related to each of the given words.
+
+
+    MICROSCOPE: A microscope might have a wooden base.
+
+    IVORY: Ivory is often used to make wooden items.
+
+    HEAD: A wooden headboard is a common item.
+
+    COVER: A wooden cover can be used to protect something.
+
+    WALL: Wooden walls are often used in construction.
+
+    CHAIR: A wooden chair is a common item.
+
+    PYRAMID: Wooden pyramids are often used as decorations.
+
+    MOUTH: A wooden mouthpiece can be used for playing musical instruments.
+
+
+    The two words that are most related to the given clue are CHAIR and WALL.
+
+
+    Answer: CHAIR, WALL'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: MICROSCOPE, IVORY, HEAD, COVER, WALL, CHAIR, PYRAMID, MOUTH
+
+    Clue: WOODEN
+
+    '
+2dbaf967-2de2-4115-848a-0e93d176b49f:
+- completion: 'First let''s see why HYDROFLASK might be related to each of the given
+    words.
+
+
+    MOUTH: A Hydroflask can be used to drink water from the mouth.
+
+    WATER: Hydroflasks are used to store and transport water.
+
+    OPERA: Hydroflasks are not related to opera.
+
+    NURSE: Hydroflasks are not related to nurses.
+
+    KING: Hydroflasks are not related to kings.
+
+    BEAT: Hydroflasks are not related to beats.
+
+    BOTTLE: Hydroflasks are a type of bottle.
+
+    CZECH: Hydroflasks are not related to the Czech Republic.
+
+
+    The two words that are most related to the given clue are WATER and BOTTLE.
+
+
+    Answer: WATER, BOTTLE'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: MOUTH, WATER, OPERA, NURSE, KING, BEAT, BOTTLE, CZECH
+
+    Clue: HYDROFLASK
+
+    '
+2f2aaf41-2de3-4df7-bd7a-e599c0c22ebe:
+- completion: 'First let''s see why LEGAL might be related to each of the given words.
+
+
+    CONTRACT: Contracts are legal documents.
+
+    STICK: A lawyer might carry a stick as a symbol of their profession.
+
+    EGYPT: Laws vary from country to country, such as in Egypt.
+
+    OPERA: Opera can be used to explore legal issues.
+
+    SKYSCRAPER: Lawyers often work in skyscrapers.
+
+    LAWYER: Lawyers are professionals who specialize in legal matters.
+
+    TRIANGLE: The law of triangles is a legal concept.
+
+    ROULETTE: Roulette is a game of chance that is regulated by law.
+
+
+    The two words that are most related to the given clue are LAWYER and CONTRACT.
+
+
+    Answer: LAWYER, CONTRACT'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CONTRACT, STICK, EGYPT, OPERA, SKYSCRAPER, LAWYER, TRIANGLE, ROULETTE
+
+    Clue: LEGAL
+
+    '
+32870d9f-2a41-49f0-8d14-7c2ba32a2805:
+- completion: 'First let''s see why FORESTS might be related to each of the given
+    words.
+
+
+    THIEF: A thief might hide in a forest.
+
+    HOTEL: A hotel might be located in a forest.
+
+    WASHINGTON: Washington state is known for its forests.
+
+    FILE: A file might contain information about forests.
+
+    TELESCOPE: A telescope might be used to observe forests.
+
+    GREEN: Forests are often green in color.
+
+    SATELLITE: A satellite might be used to monitor forests.
+
+    THEATER: A theater might be located in a forest.
+
+
+    The two words that are most related to the given clue are GREEN and THEATER.
+
+
+    Answer: GREEN, THEATER'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: THIEF, HOTEL, WASHINGTON, FILE, TELESCOPE, GREEN, SATELLITE, THEATER
+
+    Clue: FORESTS
+
+    '
+34c4ad20-d46a-4258-aee4-ed7505e8500d:
+- completion: 'First let''s see why CAR might be related to each of the given words.
+
+
+    HOSPITAL: People injured in car crashes may go to the hospital.
+
+    GLOVE: Car drivers often wear gloves.
+
+    WATER: Cars need water to run.
+
+    ENGINE: Cars have engines.
+
+    COPPER: Car engines often contain copper.
+
+    DINOSAUR: Cars are a modern invention, unlike dinosaurs.
+
+    CRASH: Cars can crash.
+
+    NOVEL: Cars are often featured in novels.
+
+
+    The two words that are most related to the given clue are ENGINE and CRASH.
+
+
+    Answer: ENGINE, CRASH'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HOSPITAL, GLOVE, WATER, ENGINE, COPPER, DINOSAUR, CRASH, NOVEL
+
+    Clue: CAR
+
+    '
+3671aed1-64cc-4f87-a38e-61edc97eacec:
+- completion: 'First let''s see why PIRATE might be related to each of the given words.
+
+
+    BEAR: Pirates often have a flag with a skull and crossbones, which looks like
+    a bear.
+
+    SNOW: Pirates often sail in cold climates, where there is snow.
+
+    SOUL: Pirates are often seen as having a rebellious spirit or soul.
+
+    JAM: Pirates often eat jam or preserves.
+
+    CHEST: Pirates often have a treasure chest.
+
+    SHOP: Pirates often have a shop where they sell their loot.
+
+    BEACH: Pirates often hide out on beaches.
+
+    HORSE: Pirates often ride horses.
+
+
+    The two words that are most related to the given clue are CHEST and SHOP.
+
+
+    Answer: CHEST, SHOP'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: BEAR, SNOW, SOUL, JAM, CHEST, SHOP, BEACH, HORSE
+
+    Clue: PIRATE
+
+    '
+36daab5a-f15b-4291-98bf-b0f28bf69e2a:
+- completion: 'First let''s see why ORBIT might be related to each of the given words.
+
+
+    SPACE: Objects in space can orbit around each other.
+
+    SATELLITE: Satellites orbit around the Earth.
+
+    PLATYPUS: A platypus does not orbit anything.
+
+    DWARF: A dwarf does not orbit anything.
+
+    CRICKET: A cricket does not orbit anything.
+
+    COPPER: Copper does not orbit anything.
+
+    BERRY: A berry does not orbit anything.
+
+    HEART: A heart does not orbit anything.
+
+
+    The two words that are most related to the given clue are SPACE and SATELLITE.
+
+
+    Answer: SPACE, SATELLITE'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: SPACE, SATELLITE, PLATYPUS, DWARF, CRICKET, COPPER, BERRY, HEART
+
+    Clue: ORBIT
+
+    '
+399da5c2-85e9-4e60-a6ba-c96728113e2c:
+- completion: 'First let''s see why JERUSALEM might be related to each of the given
+    words.
+
+
+    MOUNT: Jerusalem is located on a mountain.
+
+    CAP: The Dome of the Rock in Jerusalem is a famous cap-shaped building.
+
+    TEMPLE: Jerusalem is home to many temples.
+
+    SATURN: Jerusalem is the capital of the country of Israel, which is represented
+    by the symbol of Saturn.
+
+    OLIVE: The olive tree is a symbol of peace associated with Jerusalem.
+
+    THEATER: Jerusalem has many theaters.
+
+    FACE: Jerusalem is often referred to as the "City of Faces."
+
+    SERVER: Jerusalem is a server of many religions.
+
+
+    The two words that are most related to the given clue are MOUNT and TEMPLE.
+
+
+    Answer: MOUNT, TEMPLE'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: MOUNT, CAP, TEMPLE, SATURN, OLIVE, THEATER, FACE, SERVER
+
+    Clue: JERUSALEM
+
+    '
+3da6de54-6aa9-4ef9-9120-5f4a0b69c073:
+- completion: 'First let''s see why CINDERELLA might be related to each of the given
+    words.
+
+
+    PILOT: Cinderella''s fairy godmother turned a pumpkin into a pilot.
+
+    BUTTON: Cinderella''s stepsisters tried to fit into the glass slipper by cutting
+    off their toes and replacing them with buttons.
+
+    SHOE: Cinderella''s glass slipper was a shoe.
+
+    PLANE: Cinderella''s fairy godmother used a plane to transport her to the ball.
+
+    BOW: Cinderella wore a bow in her hair.
+
+    FIRE: Cinderella''s stepsisters tried to burn the glass slipper in the fire.
+
+    DRESS: Cinderella wore a beautiful dress to the ball.
+
+    NAIL: Cinderella''s stepsisters tried to fit into the glass slipper by hammering
+    nails into the heel.
+
+
+    The two words that are most related to the given clue are SHOE and DRESS.
+
+
+    Answer: SHOE, DRESS'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: PILOT, BUTTON, SHOE, PLANE, BOW, FIRE, DRESS, NAIL
+
+    Clue: CINDERELLA
+
+    '
+3f429e5c-90be-409d-9475-759287140338:
+- completion: 'First let''s see why JUSTICE might be related to each of the given
+    words.
+
+
+    DWARF: In some fairy tales, dwarves are associated with justice.
+
+    ENGINE: Police cars have engines.
+
+    PASS: In some cases, justice is seen as a "pass" to a better life.
+
+    TELESCOPE: Telescopes can be used to observe justice in action.
+
+    DICE: Dice are often used to symbolize justice.
+
+    FAIR: Justice is often seen as being fair.
+
+    POLICE: Police are responsible for upholding justice.
+
+    MATCH: Matches can be used to symbolize justice.
+
+
+    The two words that are most related to the given clue are POLICE and FAIR.
+
+
+    Answer: POLICE, FAIR'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: DWARF, ENGINE, PASS, TELESCOPE, DICE, FAIR, POLICE, MATCH
+
+    Clue: JUSTICE
+
+    '
+3f481c58-23bf-4702-96a9-7d454a619334:
+- completion: 'First let''s see why CREATURE might be related to each of the given
+    words.
+
+
+    ROCK: Rocks are not creatures.
+
+    SWITCH: Switches are not creatures.
+
+    PLATYPUS: A platypus is a creature.
+
+    ARM: Arms are not creatures.
+
+    THUMB: Thumbs are not creatures.
+
+    CENTAUR: A centaur is a creature.
+
+    TRIANGLE: Triangles are not creatures.
+
+    SERVER: Servers are not creatures.
+
+
+    The two words that are most related to the given clue are PLATYPUS and CENTAUR.
+
+
+    Answer: PLATYPUS, CENTAUR'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: ROCK, SWITCH, PLATYPUS, ARM, THUMB, CENTAUR, TRIANGLE, SERVER
+
+    Clue: CREATURE
+
+    '
+42f04d8c-155e-478e-8a89-f37a7cde0f72:
+- completion: 'First let''s see why BAT might be related to each of the given words.
+
+
+    CROSS: A bat is shaped like a cross.
+
+    COVER: A bat is used to cover a baseball.
+
+    SATELLITE: Bats use echolocation like a satellite.
+
+    CLUB: A bat is a type of club.
+
+    SWING: A bat is used to swing at a ball.
+
+    JUPITER: Bats are found on every continent except Antarctica and Jupiter.
+
+    GRASS: Bats often live in grassy areas.
+
+    OPERA: Bats are sometimes featured in operas.
+
+
+    The two words that are most related to the given clue are CLUB and SWING.
+
+
+    Answer: CLUB, SWING'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CROSS, COVER, SATELLITE, CLUB, SWING, JUPITER, GRASS, OPERA
+
+    Clue: BAT
+
+    '
+44feb926-eb50-4fd0-9a86-ec1cb0cd5723:
+- completion: 'First let''s see why SMALL might be related to each of the given words.
+
+
+    PAN: A pan can be small in size.
+
+    PLOT: A plot of land can be small.
+
+    HEAD: A head can be small in size.
+
+    SQUARE: A square can be small.
+
+    MICROSCOPE: A microscope is used to view small objects.
+
+    PYRAMID: A pyramid can be small in size.
+
+    NEW YORK: New York City is sometimes referred to as the "Big Apple," but it is
+    actually quite small compared to other cities.
+
+    SCALE: A scale can measure small objects.
+
+
+    The two words that are most related to the given clue are MICROSCOPE and SCALE.
+
+
+    Answer: MICROSCOPE, SCALE'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: PAN, PLOT, HEAD, SQUARE, MICROSCOPE, PYRAMID, NEW YORK, SCALE
+
+    Clue: SMALL
+
+    '
+491c0374-59d7-49f9-8e22-61e4cdd42090:
+- completion: 'First let''s see why VIOLIN might be related to each of the given words.
+
+
+    CONCERT: Violins are often played in concerts.
+
+    TRIP: A violin might be taken on a trip.
+
+    SHOP: Violins can be bought in a shop.
+
+    FISH: Violins have no relation to fish.
+
+    WATCH: Violins have no relation to watches.
+
+    STRING: Violins have strings.
+
+    HAWK: Violins have no relation to hawks.
+
+    LOCH NESS: Violins have no relation to Loch Ness.
+
+
+    The two words that are most related to the given clue are CONCERT and STRING.
+
+
+    Answer: CONCERT, STRING'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CONCERT, TRIP, SHOP, FISH, WATCH, STRING, HAWK, LOCH NESS
+
+    Clue: VIOLIN
+
+    '
+4a5eeea8-4768-4559-a27c-2bbaba201032:
+- completion: 'First let''s see why HOLSTER might be related to each of the given
+    words.
+
+
+    SNOWMAN: A snowman cannot wear a holster.
+
+    BAR: A holster might be worn on a belt in a bar.
+
+    HOLE: A holster might have a hole for a pistol.
+
+    OIL: A holster might be made of oiled leather.
+
+    PISTOL: A holster is used to carry a pistol.
+
+    CARROT: A carrot cannot wear a holster.
+
+    IVORY: A holster might be made of ivory.
+
+    BELT: A holster is often worn on a belt.
+
+
+    The two words that are most related to the given clue are PISTOL and BELT.
+
+
+    Answer: PISTOL, BELT'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: SNOWMAN, BAR, HOLE, OIL, PISTOL, CARROT, IVORY, BELT
+
+    Clue: HOLSTER
+
+    '
+4bdf2d46-08cf-48ab-a790-91d285ee9d42:
+- completion: 'First let''s see why SHIP might be related to each of the given words.
+
+
+    WORM: A ship might have worms on its hull.
+
+    CHINA: Ships are often made in China.
+
+    INDIA: Ships are used to transport goods to India.
+
+    NOVEL: Many novels are set on ships.
+
+    DECK: Ships have decks.
+
+    GROUND: Ships can run aground.
+
+    BOMB: Ships can be bombed.
+
+    SINK: Ships can sink.
+
+
+    The two words that are most related to the given clue are DECK and SINK.
+
+
+    Answer: DECK, SINK'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: WORM, CHINA, INDIA, NOVEL, DECK, GROUND, BOMB, SINK
+
+    Clue: SHIP
+
+    '
+54a29e40-b210-43d9-a86a-74986edc792f:
+- completion: 'First let''s see why DESIDUOUS might be related to each of the given
+    words.
+
+
+    CHARGE: Desiduous trees lose their leaves in the fall.
+
+    DRAGON: Dragons are often associated with fire, which can burn desiduous trees.
+
+    POISON: Poisonous plants can be found in desiduous forests.
+
+    RABBIT: Rabbits can be found in desiduous forests.
+
+    FALL: Desiduous trees lose their leaves in the fall.
+
+    MAPLE: Maple trees are a type of desiduous tree.
+
+    BAT: Bats can be found in desiduous forests.
+
+    KNIFE: Knives can be used to cut down desiduous trees.
+
+
+    The two words that are most related to the given clue are FALL and MAPLE.
+
+
+    Answer: FALL, MAPLE'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHARGE, DRAGON, POISON, RABBIT, FALL, MAPLE, BAT, KNIFE
+
+    Clue: DESIDUOUS
+
+    '
+54a51ee2-4907-4302-a01c-2cdd893f089e:
+- completion: 'First let''s see why GAME might be related to each of the given words.
+
+
+    THEATER: Theater can be a game of make-believe.
+
+    ROULETTE: Roulette is a game of chance.
+
+    NOVEL: Novels can be a form of interactive game.
+
+    BOX: Boxes can be used to store board games.
+
+    STRAW: Straws can be used to play games like Jacks.
+
+    HOLLYWOOD: Hollywood is often associated with the game of fame.
+
+    DICE: Dice are used in many games.
+
+    MOSCOW: Moscow is the capital of Russia, which is known for its game of chess.
+
+
+    The two words that are most related to the given clue are ROULETTE and DICE.
+
+
+    Answer: ROULETTE, DICE'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: THEATER, ROULETTE, NOVEL, BOX, STRAW, HOLLYWOOD, DICE, MOSCOW
+
+    Clue: GAME
+
+    '
+60de06f4-b7dd-454a-8f5f-28a62f5f59f7:
+- completion: 'First let''s see why COUNTRY might be related to each of the given
+    words.
+
+
+    DECK: A deck of cards might have a country''s flag on it.
+
+    BOTTLE: A bottle of wine might have a label with a country''s name on it.
+
+    TIE: A tie might have a pattern of a country''s flag.
+
+    SPELL: Spellings of words can vary from country to country.
+
+    FRANCE: France is a country.
+
+    GREECE: Greece is a country.
+
+    WALL: A wall might be built to separate two countries.
+
+    MASS: Mass is a unit of measurement that can vary from country to country.
+
+
+    The two words that are most related to the given clue are FRANCE and GREECE.
+
+
+    Answer: FRANCE, GREECE'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: DECK, BOTTLE, TIE, SPELL, FRANCE, GREECE, WALL, MASS
+
+    Clue: COUNTRY
+
+    '
+68a5a261-b73b-4c5a-8f8e-1c9a82c96495:
+- completion: 'First let''s see why GEOMETRY might be related to each of the given
+    words.
+
+
+    ICE: Ice can form geometric shapes.
+
+    TABLET: Tablets are often used to draw geometric shapes.
+
+    FISH: Fish can have geometric patterns on their scales.
+
+    SQUARE: A square is a type of geometric shape.
+
+    AZTEC: Aztec art often features geometric shapes.
+
+    MOON: The moon is often depicted as a circle, a type of geometric shape.
+
+    LEMON: Lemons can be cut into geometric shapes.
+
+    CENTER: The center of a geometric shape is its point of origin.
+
+
+    The two words that are most related to the given clue are SQUARE and CENTER.
+
+
+    Answer: SQUARE, CENTER'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: ICE, TABLET, FISH, SQUARE, AZTEC, MOON, LEMON, CENTER
+
+    Clue: GEOMETRY
+
+    '
+68af6af1-1b50-42dd-80e0-916db4e7e7bf:
+- completion: 'First let''s see why FICTION might be related to each of the given
+    words.
+
+
+    GHOST: Ghosts are often featured in fiction stories.
+
+    BACK: A book''s back cover often contains a summary of the fiction story.
+
+    DWARF: Dwarves are often featured in fantasy fiction stories.
+
+    CELL: Cells can be used to write fiction stories.
+
+    REVOLUTION: Fiction stories often feature revolutions.
+
+    CHOCOLATE: Chocolate is often featured in fiction stories.
+
+    SQUARE: Squares can be used to create a fictional world.
+
+    NEW YORK: New York is often featured in fiction stories.
+
+
+    The two words that are most related to the given clue are GHOST and REVOLUTION.
+
+
+    Answer: GHOST, REVOLUTION'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: GHOST, BACK, DWARF, CELL, REVOLUTION, CHOCOLATE, SQUARE, NEW YORK
+
+    Clue: FICTION
+
+    '
+6b24c84b-ba4a-4090-bcf6-70acf7a78f8a:
+- completion: 'First let''s see why BITING might be related to each of the given words.
+
+
+    CANADA: Canada is known for its cold, biting winters.
+
+    TICK: Ticks are known for biting humans and animals.
+
+    DECK: A deck of cards can be used to play a game of "Biting the Dragon''s Tail."
+
+    PLOT: A plot of land can be used to grow crops that are resistant to biting insects.
+
+    NOTE: A note can be written to remind someone to avoid biting their nails.
+
+    WIND: A strong wind can have a biting chill.
+
+    WASHER: A washer can be used to remove biting odors from clothing.
+
+    BUFFALO: Buffalo are known for their sharp, biting horns.
+
+
+    The two words that are most related to the given clue are TICK and WIND.
+
+
+    Answer: TICK, WIND'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CANADA, TICK, DECK, PLOT, NOTE, WIND, WASHER, BUFFALO
+
+    Clue: BITING
+
+    '
+6fac8c2a-25c6-48d1-9026-5116373550a4:
+- completion: 'First let''s see why SIZE might be related to each of the given words.
+
+
+    SHOE: Shoes come in different sizes.
+
+    COOK: A cook might use different size pots and pans.
+
+    GAS: Gas tanks come in different sizes.
+
+    VACUUM: Vacuums come in different sizes.
+
+    CROWN: Crowns come in different sizes.
+
+    RABBIT: Rabbits come in different sizes.
+
+    DWARF: Dwarfs are usually smaller in size than humans.
+
+    APPLE: Apples come in different sizes.
+
+
+    The two words that are most related to the given clue are RABBIT and DWARF.
+
+
+    Answer: RABBIT, DWARF'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: SHOE, COOK, GAS, VACUUM, CROWN, RABBIT, DWARF, APPLE
+
+    Clue: SIZE
+
+    '
+721bde71-7f0a-4b26-81f6-5662595766fb:
+- completion: 'First let''s see why PROMONTORY might be related to each of the given
+    words.
+
+
+    CLIFF: A promontory is a high point of land that juts out from a cliff.
+
+    POINT: A promontory is a point of land that juts out into the sea.
+
+    HORSE: A promontory might be a place where horses graze.
+
+    SINK: A promontory might be a place where a sinkhole is located.
+
+    BEIJING: Promontories are not typically found in Beijing.
+
+    TOOTH: Promontories are not typically related to teeth.
+
+    DICE: Promontories are not typically related to dice.
+
+    VACUUM: Promontories are not typically related to vacuums.
+
+
+    The two words that are most related to the given clue are CLIFF and POINT.
+
+
+    Answer: CLIFF, POINT'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CLIFF, POINT, HORSE, SINK, BEIJING, TOOTH, DICE, VACUUM
+
+    Clue: PROMONTORY
+
+    '
+749768a0-21cd-4a20-a13d-e5ecfc6d0f5d:
+- completion: 'First let''s see why SKIN might be related to each of the given words.
+
+
+    HORSE: Horses have skin.
+
+    EGYPT: Ancient Egyptians used animal skins for clothing.
+
+    DINOSAUR: Dinosaurs had skin.
+
+    CHANGE: Skin can change color.
+
+    FOREST: Animals in the forest have skin.
+
+    MOLE: Moles have skin.
+
+    DRAGON: Dragons in stories often have scaly skin.
+
+    HAND: Humans have skin on their hands.
+
+
+    The two words that are most related to the given clue are HORSE and HAND.
+
+
+    Answer: HORSE, HAND'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HORSE, EGYPT, DINOSAUR, CHANGE, FOREST, MOLE, DRAGON, HAND
+
+    Clue: SKIN
+
+    '
+768e116b-5c42-4abe-a65c-d4381397fb72:
+- completion: 'First let''s see why FIREBOMB might be related to each of the given
+    words.
+
+
+    MAMMOTH: Firebombs were used to hunt mammoths.
+
+    PILOT: Pilots dropped firebombs during World War II.
+
+    TORCH: Firebombs are like torches in that they both produce fire.
+
+    MOUTH: Firebombs can be thrown by hand, like throwing something out of your mouth.
+
+    TRAIN: Firebombs were used to attack trains during World War II.
+
+    MOSCOW: Firebombs were used to attack Moscow during World War II.
+
+    BACK: Firebombs can be thrown from the back of a vehicle.
+
+    SCIENTIST: Scientists study the effects of firebombs.
+
+
+    The two words that are most related to the given clue are TRAIN and MOSCOW.
+
+
+    Answer: TRAIN, MOSCOW'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: MAMMOTH, PILOT, TORCH, MOUTH, TRAIN, MOSCOW, BACK, SCIENTIST
+
+    Clue: FIREBOMB
+
+    '
+78ea75b7-d341-4865-b411-063cc7ca59c6:
+- completion: 'First let''s see why HISTORICAL might be related to each of the given
+    words.
+
+
+    CARD: Historical playing cards often feature kings and queens.
+
+    HOOD: Hoods were worn by some historical figures.
+
+    HAM: Ham is a type of meat that has been eaten for centuries.
+
+    KING: Kings are a part of many historical stories.
+
+    FIGURE: Historical figures are often studied in school.
+
+    HONEY: Honey has been used for centuries as a sweetener.
+
+    HEAD: Historical figures often have their heads on coins.
+
+    BAR: Bars have been around for centuries.
+
+
+    The two words that are most related to the given clue are KING and FIGURE.
+
+
+    Answer: KING, FIGURE'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CARD, HOOD, HAM, KING, FIGURE, HONEY, HEAD, BAR
+
+    Clue: HISTORICAL
+
+    '
+7aecaf64-3602-4483-a350-5d06bdef9cac:
+- completion: 'First let''s see why LOVE might be related to each of the given words.
+
+
+    THIEF: Someone might steal your heart if they love you.
+
+    HEART: Love is often associated with the heart.
+
+    DRESS: Someone might wear a special dress if they are in love.
+
+    PLATE: A plate might be used to serve a romantic dinner for two.
+
+    CLUB: A club might be a place to meet someone you love.
+
+    FALL: People often say they "fall in love."
+
+    BAT: A bat might be used to play a game of love.
+
+    PAN: A pan might be used to cook a meal for someone you love.
+
+
+    The two words that are most related to the given clue are HEART and FALL.
+
+
+    Answer: HEART, FALL'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: THIEF, HEART, DRESS, PLATE, CLUB, FALL, BAT, PAN
+
+    Clue: LOVE
+
+    '
+7c1c6030-80c6-4cf6-9931-6c45b29e52b0:
+- completion: 'First let''s see why CAPTAIN might be related to each of the given
+    words.
+
+
+    GAME: A game might have a captain.
+
+    PILOT: A pilot is sometimes referred to as a captain.
+
+    FOREST: A captain might lead a group of people through a forest.
+
+    SPELL: A captain might cast a spell.
+
+    BANK: A captain might be in charge of a bank.
+
+    DIAMOND: A captain might have a diamond as a symbol of rank.
+
+    WALL: A captain might be in charge of a wall.
+
+    PIRATE: A captain is often the leader of a pirate crew.
+
+
+    The two words that are most related to the given clue are PILOT and PIRATE.
+
+
+    Answer: PILOT, PIRATE'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: GAME, PILOT, FOREST, SPELL, BANK, DIAMOND, WALL, PIRATE
+
+    Clue: CAPTAIN
+
+    '
+7dfe03b6-4a14-4981-9fce-d9b0fa93c7ae:
+- completion: 'First let''s see why ENGINE might be related to each of the given words.
+
+
+    JACK: A car jack is used to lift the engine.
+
+    BUTTON: The engine start button is used to start the engine.
+
+    BEAR: An engine bearing is a part of the engine.
+
+    PART: An engine is made up of many parts.
+
+    LIMOUSINE: A limousine has an engine.
+
+    WELL: An engine runs well when it is in good condition.
+
+    DATE: The date of manufacture of an engine can be found.
+
+    COVER: An engine cover is used to protect the engine.
+
+
+    The two words that are most related to the given clue are PART and COVER.
+
+
+    Answer: PART, COVER'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: JACK, BUTTON, BEAR, PART, LIMOUSINE, WELL, DATE, COVER
+
+    Clue: ENGINE
+
+    '
+8067c153-b4ef-453e-9da3-a70d93181303:
+- completion: 'First let''s see why PEST might be related to each of the given words.
+
+
+    BATTERY: Batteries can be used to power pest control devices.
+
+    FIGHTER: A fighter jet could be used to fight pests.
+
+    GAME: Some video games involve killing pests.
+
+    CAP: A cap might be used to protect against pests.
+
+    MOUSE: Mice are a common pest.
+
+    TICK: Ticks are a type of pest.
+
+    CHURCH: Churches may have pest control services.
+
+    WASHINGTON: Washington is a state that has many pests.
+
+
+    The two words that are most related to the given clue are MOUSE and TICK.
+
+
+    Answer: MOUSE, TICK'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: BATTERY, FIGHTER, GAME, CAP, MOUSE, TICK, CHURCH, WASHINGTON
+
+    Clue: PEST
+
+    '
+85f4f2a2-b09d-4787-a94b-cc4cc1fd4855:
+- completion: 'First let''s see why JURASSIC might be related to each of the given
+    words.
+
+
+    GREEN: The Jurassic period was known for its lush green vegetation.
+
+    TORCH: A torch might be used to explore a Jurassic-era cave.
+
+    FIRE: Fire was used by humans during the Jurassic period.
+
+    NAIL: Nails were used to build structures during the Jurassic period.
+
+    FRANCE: The Jurassic period was first discovered in France.
+
+    DINOSAUR: Dinosaurs lived during the Jurassic period.
+
+    WHIP: Whips were used to control dinosaurs during the Jurassic period.
+
+    FILM: The Jurassic Park film series is set during the Jurassic period.
+
+
+    The two words that are most related to the given clue are DINOSAUR and FRANCE.
+
+
+    Answer: DINOSAUR, FRANCE'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: GREEN, TORCH, FIRE, NAIL, FRANCE, DINOSAUR, WHIP, FILM
+
+    Clue: JURASSIC
+
+    '
+8f4f536b-4ef1-49dd-b465-9dbbd4545ef6:
+- completion: 'First let''s see why PLASTER might be related to each of the given
+    words.
+
+
+    MOSCOW: Plaster is used in construction, which is common in Moscow.
+
+    PASTE: Plaster is a type of paste.
+
+    UNDERTAKER: Plaster is used to make casts for broken bones, which an undertaker
+    might use.
+
+    ROW: Plaster is used to make casts for broken bones, which an undertaker might
+    use.
+
+    RABBIT: Plaster is used to make casts for broken bones, which an undertaker might
+    use.
+
+    SOCK: Plaster is used to make casts for broken bones, which an undertaker might
+    use.
+
+    CAST: Plaster is used to make casts for broken bones.
+
+    DICE: Plaster is used to make casts for broken bones, which an undertaker might
+    use.
+
+
+    The two words that are most related to the given clue are CAST and PASTE.
+
+
+    Answer: CAST, PASTE'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: MOSCOW, PASTE, UNDERTAKER, ROW, RABBIT, SOCK, CAST, DICE
+
+    Clue: PLASTER
+
+    '
+8f61ac27-58b1-44a8-b4c6-d1ed09856e58:
+- completion: 'First let''s see why ELBE might be related to each of the given words.
+
+
+    ANGEL: The Elbe River flows through the city of Hamburg, Germany, which is known
+    as the "City of Angels."
+
+    BOW: The Elbe River is located in the Czech Republic and Germany, which is sometimes
+    referred to as the "Bow of Europe."
+
+    BARK: The Elbe River is a major tributary of the North Sea, which is sometimes
+    referred to as the "Bark of Europe."
+
+    CZECH: The Elbe River is located in the Czech Republic.
+
+    GAME: Fishing is a popular game along the Elbe River.
+
+    STREAM: The Elbe River is a major stream in Europe.
+
+    VET: The Elbe River is a popular destination for riverboat cruises and sightseeing
+    tours.
+
+    KING: The Elbe River is sometimes referred to as the "King of Rivers."
+
+
+    The two words that are most related to the given clue are CZECH and KING.
+
+
+    Answer: CZECH, KING'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: ANGEL, BOW, BARK, CZECH, GAME, STREAM, VET, KING
+
+    Clue: ELBE
+
+    '
+8fe26699-f581-4307-b820-3d9f04411e33:
+- completion: 'First let''s see why DIGITAL might be related to each of the given
+    words.
+
+
+    HORN: Digital horns are often used in cars.
+
+    HAM: Digital ham radios are used by amateur radio operators.
+
+    CAST: Digital casts are used in medical imaging.
+
+    CODE: Digital codes are used to store and transmit data.
+
+    SCUBA DIVER: Digital scuba diving computers are used to monitor depth and time.
+
+    KING: Digital kings are used in chess programs.
+
+    SHADOW: Digital shadows are used in 3D animation.
+
+    REVOLUTION: The digital revolution has changed the way we communicate.
+
+
+    The two words that are most related to the given clue are CODE and REVOLUTION.
+
+
+    Answer: CODE, REVOLUTION'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HORN, HAM, CAST, CODE, SCUBA DIVER, KING, SHADOW, REVOLUTION
+
+    Clue: DIGITAL
+
+    '
+91e77166-8cbc-415e-a3f7-e54e63cfe25b:
+- completion: 'First let''s see why PERSON might be related to each of the given words.
+
+
+    TRUNK: A person might have a trunk full of items.
+
+    MODEL: A person might be a model.
+
+    SPY: A person might be a spy.
+
+    PLATE: A person might have a plate of food.
+
+    POUND: A person might weigh a certain number of pounds.
+
+    TRIP: A person might take a trip.
+
+    CLUB: A person might join a club.
+
+    SQUARE: A person might stand in a square.
+
+
+    The two words that are most related to the given clue are MODEL and SPY.
+
+
+    Answer: MODEL, SPY'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: TRUNK, MODEL, SPY, PLATE, POUND, TRIP, CLUB, SQUARE
+
+    Clue: PERSON
+
+    '
+92c63555-83d7-47d2-b3e5-c81aa3e92b08:
+- completion: 'First let''s see why HOUSE might be related to each of the given words.
+
+
+    RING: A house might have a doorbell or a door knocker in the shape of a ring.
+
+    BED: A house typically has beds.
+
+    FENCE: A house might have a fence around it.
+
+    GREEN: A house might be painted green.
+
+    MOSCOW: Moscow is the capital of Russia, which is sometimes referred to as a "house."
+
+    MASS: A house of worship is often referred to as a "mass."
+
+    LINK: A house might have a link to the internet.
+
+    SLUG: A house might have slugs in the garden.
+
+
+    The two words that are most related to the given clue are FENCE and BED.
+
+
+    Answer: FENCE, BED'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: RING, BED, FENCE, GREEN, MOSCOW, MASS, LINK, SLUG
+
+    Clue: HOUSE
+
+    '
+9955eb08-fe99-4710-9417-64507d1af7aa:
+- completion: 'First let''s see why ROUND might be related to each of the given words.
+
+
+    MOON: The moon is round.
+
+    WATER: Water can be round in shape.
+
+    TEMPLE: Temples often have round domes.
+
+    PUMPKIN: Pumpkins are round in shape.
+
+    WALL: Walls can be round in shape.
+
+    KID: Kids often play with round balls.
+
+    BOARD: A board game might have round pieces.
+
+    DOG: Dogs often have round eyes.
+
+
+    The two words that are most related to the given clue are MOON and PUMPKIN.
+
+
+    Answer: MOON, PUMPKIN'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: MOON, WATER, TEMPLE, PUMPKIN, WALL, KID, BOARD, DOG
+
+    Clue: ROUND
+
+    '
+a13ef486-b586-4c13-9ed4-6e6d9b5d4985:
+- completion: 'First let''s see why TENOCHTITLAN might be related to each of the given
+    words.
+
+
+    PUMPKIN: Tenochtitlan is not related to pumpkins.
+
+    CONTRACT: Tenochtitlan is not related to contracts.
+
+    CAPITAL: Tenochtitlan was the capital of the Aztec Empire.
+
+    MEXICO: Tenochtitlan is now located in Mexico City, Mexico.
+
+    JUPITER: Tenochtitlan is not related to Jupiter.
+
+    KID: Tenochtitlan is not related to kids.
+
+    TOKYO: Tenochtitlan is not related to Tokyo.
+
+    YARD: Tenochtitlan is not related to yards.
+
+
+    The two words that are most related to the given clue are CAPITAL and MEXICO.
+
+
+    Answer: CAPITAL, MEXICO'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: PUMPKIN, CONTRACT, CAPITAL, MEXICO, JUPITER, KID, TOKYO, YARD
+
+    Clue: TENOCHTITLAN
+
+    '
+a2f4683e-be50-4d6b-813f-b18ed9b441dd:
+- completion: 'First let''s see why BAND might be related to each of the given words.
+
+
+    DISEASE: A band-aid is used to treat minor cuts and scrapes.
+
+    LAWYER: A band of lawyers might work together on a case.
+
+    FILM: A band might be featured in a movie.
+
+    BRIDGE: A bridge might be built over a river with a band of steel.
+
+    CRICKET: A band of crickets might be heard in the summer.
+
+    STADIUM: A band might perform in a stadium.
+
+    PHOENIX: A phoenix might be depicted with a band of fire.
+
+    MARCH: A band might march in a parade.
+
+
+    The two words that are most related to the given clue are FILM and STADIUM.
+
+
+    Answer: FILM, STADIUM'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: DISEASE, LAWYER, FILM, BRIDGE, CRICKET, STADIUM, PHOENIX, MARCH
+
+    Clue: BAND
+
+    '
+a2f71312-e1df-4b8e-b981-cf50b7f3d6c2:
+- completion: 'First let''s see why BIOLOGY might be related to each of the given
+    words.
+
+
+    FAIR: Biology fairs are often held.
+
+    PLATYPUS: The platypus is a unique animal studied in biology.
+
+    AMAZON: The Amazon rainforest is home to many species studied in biology.
+
+    LIFE: Biology is the study of life.
+
+    MOUSE: Mice are often used in biology experiments.
+
+    ORGAN: Biology studies the structure and function of organs.
+
+    BOW: Bows are sometimes used to illustrate the structure of DNA in biology.
+
+    SOUND: Sound waves are studied in biology.
+
+
+    The two words that are most related to the given clue are LIFE and ORGAN.
+
+
+    Answer: LIFE, ORGAN'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: FAIR, PLATYPUS, AMAZON, LIFE, MOUSE, ORGAN, BOW, SOUND
+
+    Clue: BIOLOGY
+
+    '
+ac49ff97-062d-4dcd-a214-1b439056623b:
+- completion: 'First let''s see why FLAT might be related to each of the given words.
+
+
+    CAP: A cap can have a flat brim.
+
+    TRIP: A trip can be flat, meaning it is not too exciting.
+
+    SCREEN: A screen can be flat.
+
+    AMERICA: The United States is sometimes referred to as "the flatlands."
+
+    BOARD: A board can be flat.
+
+    HOOK: A hook can be flat.
+
+    HEART: A heart can be drawn as a flat shape.
+
+    BOLT: A bolt can be flat.
+
+
+    The two words that are most related to the given clue are BOARD and HOOK.
+
+
+    Answer: BOARD, HOOK'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CAP, TRIP, SCREEN, AMERICA, BOARD, HOOK, HEART, BOLT
+
+    Clue: FLAT
+
+    '
+b5db62bf-7261-4db0-bce3-f2f57c2bfe71:
+- completion: 'First let''s see why PERSON might be related to each of the given words.
+
+
+    WHALE: A person can observe whales in the wild.
+
+    PLANE: A person can fly in a plane.
+
+    SCUBA DIVER: A person can be a scuba diver.
+
+    BERLIN: A person can visit Berlin.
+
+    LIFE: A person has a life.
+
+    PUPIL: A person has pupils in their eyes.
+
+    MICROSCOPE: A person can use a microscope.
+
+    SWITCH: A person can flip a switch.
+
+
+    The two words that are most related to the given clue are LIFE and PUPIL.
+
+
+    Answer: LIFE, PUPIL'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: WHALE, PLANE, SCUBA DIVER, BERLIN, LIFE, PUPIL, MICROSCOPE, SWITCH
+
+    Clue: PERSON
+
+    '
+b90d2d77-00b1-4ef2-beb7-8ca4e58f130f:
+- completion: 'First let''s see why WRITE might be related to each of the given words.
+
+
+    MAMMOTH: Mammoths are often depicted writing on cave walls.
+
+    MICROSCOPE: A microscope can be used to write on a very small scale.
+
+    NOTE: A note is something that is written.
+
+    PART: A part of a larger document can be written.
+
+    WAKE: A wake can be written in a book.
+
+    COVER: A cover can be written for a book.
+
+    TABLE: A table can be written in a document.
+
+    PUMPKIN: A pumpkin can be carved with words.
+
+
+    The two words that are most related to the given clue are NOTE and COVER.
+
+
+    Answer: NOTE, COVER'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: MAMMOTH, MICROSCOPE, NOTE, PART, WAKE, COVER, TABLE, PUMPKIN
+
+    Clue: WRITE
+
+    '
+b933d451-56f0-4392-895e-d8098a29a49f:
+- completion: 'First let''s see why TREE might be related to each of the given words.
+
+
+    FOREST: A forest is made up of many trees.
+
+    FIGURE: A tree can be used to represent a figure.
+
+    SUPERHERO: A superhero might have a tree as their symbol.
+
+    BALL: A tree can be used to make a ball.
+
+    ROOT: Trees have roots.
+
+    LIFE: Trees are a sign of life.
+
+    TRAIN: A train might pass through a forest of trees.
+
+    PARACHUTE: A parachute might be used to land in a tree.
+
+
+    The two words that are most related to the given clue are FOREST and ROOT.
+
+
+    Answer: FOREST, ROOT'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: FOREST, FIGURE, SUPERHERO, BALL, ROOT, LIFE, TRAIN, PARACHUTE
+
+    Clue: TREE
+
+    '
+c10edb38-f04c-4bba-9e3d-a1fe186ae2a2:
+- completion: 'First let''s see why STAB might be related to each of the given words.
+
+
+    SERVER: A server might stab a steak with a knife.
+
+    SINK: A knife might be used to stab a sink.
+
+    POOL: A knife might be used to stab the bottom of a pool.
+
+    PIRATE: A pirate might stab someone with a knife.
+
+    HOTEL: A knife might be used to stab a hotel mattress.
+
+    PUPIL: A pupil might stab a pencil with a knife.
+
+    KNIFE: A knife is often used to stab something.
+
+    DEATH: Stabbing someone can lead to death.
+
+
+    The two words that are most related to the given clue are KNIFE and DEATH.
+
+
+    Answer: KNIFE, DEATH'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: SERVER, SINK, POOL, PIRATE, HOTEL, PUPIL, KNIFE, DEATH
+
+    Clue: STAB
+
+    '
+c1520320-ced3-46a6-9f3e-e721506d207c:
+- completion: 'First let''s see why SERGEANT might be related to each of the given
+    words.
+
+
+    BEAR: A bear might be a sergeant in the military.
+
+    FOREST: A sergeant might be in charge of a forest ranger station.
+
+    WAR: A sergeant is a rank in the military during war.
+
+    SCIENTIST: A sergeant might be in charge of a scientific research team.
+
+    AFRICA: A sergeant might be stationed in Africa.
+
+    CONDUCTOR: A sergeant might be in charge of a train conductor.
+
+    SWING: A sergeant might be in charge of a playground swing set.
+
+    STAFF: A sergeant might be in charge of a staff of people.
+
+
+    The two words that are most related to the given clue are WAR and STAFF.
+
+
+    Answer: WAR, STAFF'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: BEAR, FOREST, WAR, SCIENTIST, AFRICA, CONDUCTOR, SWING, STAFF
+
+    Clue: SERGEANT
+
+    '
+c6d31d79-355f-44d4-a725-66cf805efc84:
+- completion: 'First let''s see why MAGIC might be related to each of the given words.
+
+
+    MERCURY: Mercury is often associated with magic and alchemy.
+
+    PENGUIN: Penguins are often associated with magical creatures like unicorns.
+
+    FACE: A face can be used to cast a magical spell.
+
+    WITCH: Witches are often associated with magic.
+
+    SPIDER: Spiders can be seen as magical creatures.
+
+    UNICORN: Unicorns are magical creatures.
+
+    BOOT: A magical boot can be used to fly.
+
+    DOG: Dogs can be seen as magical creatures.
+
+
+    The two words that are most related to the given clue are WITCH and UNICORN.
+
+
+    Answer: WITCH, UNICORN'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: MERCURY, PENGUIN, FACE, WITCH, SPIDER, UNICORN, BOOT, DOG
+
+    Clue: MAGIC
+
+    '
+cfbf7872-b4cd-4623-aac4-f04cb27cebb9:
+- completion: 'First let''s see why RIG might be related to each of the given words.
+
+
+    EAGLE: An eagle might be perched on a rig.
+
+    COMPOUND: A rig might be located on a compound.
+
+    POLE: A rig might be attached to a pole.
+
+    COMIC: A comic might make a joke about a rig.
+
+    OIL: A rig might be used to extract oil.
+
+    STAFF: A rig might be operated by a staff.
+
+    DRILL: A rig might be used for drilling.
+
+    CAP: A rig might have a cap on it.
+
+
+    The two words that are most related to the given clue are OIL and DRILL.
+
+
+    Answer: OIL, DRILL'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: EAGLE, COMPOUND, POLE, COMIC, OIL, STAFF, DRILL, CAP
+
+    Clue: RIG
+
+    '
+d536125c-7b09-4724-b22b-1ae874a813bd:
+- completion: 'First let''s see why HAIR might be related to each of the given words.
+
+
+    TABLE: A table might have a hairbrush on it.
+
+    SLIP: A slip might have a hair tie on it.
+
+    AZTEC: Aztec people often wore their hair in elaborate styles.
+
+    BRUSH: A hairbrush is used to brush hair.
+
+    PART: A hair part is used to separate hair.
+
+    TAP: A hair tap is used to secure hair in place.
+
+    SHARK: Sharks have hair-like skin.
+
+    ANTARCTICA: Antarctica is a place where hair does not grow.
+
+
+    The two words that are most related to the given clue are BRUSH and PART.
+
+
+    Answer: BRUSH, PART'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: TABLE, SLIP, AZTEC, BRUSH, PART, TAP, SHARK, ANTARCTICA
+
+    Clue: HAIR
+
+    '
+d6096ad4-e016-4260-8944-385f8c12540e:
+- completion: 'First let''s see why PET might be related to each of the given words.
+
+
+    GERMANY: Germany is the capital of the pet industry.
+
+    BOTTLE: Pet bottles are used to store liquids.
+
+    SERVER: Pet servers are used to store data.
+
+    DRAGON: Dragons can be kept as pets.
+
+    DOG: Dogs are a popular pet.
+
+    QUEEN: Queen Elizabeth II has owned many pets.
+
+    VET: Vets are doctors for pets.
+
+    CAPITAL: Pet capital is a term used to describe the pet industry.
+
+
+    The two words that are most related to the given clue are DOG and VET.
+
+
+    Answer: DOG, VET'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: GERMANY, BOTTLE, SERVER, DRAGON, DOG, QUEEN, VET, CAPITAL
+
+    Clue: PET
+
+    '
+d7505f18-5021-49a2-a785-5dbd58a73b61:
+- completion: 'First let''s see why KANGAROO might be related to each of the given
+    words.
+
+
+    LEAD: A kangaroo can lead a group of other animals.
+
+    AUSTRALIA: Kangaroos are native to Australia.
+
+    FACE: A kangaroo has a face.
+
+    SMUGGLER: A kangaroo can smuggle its young in its pouch.
+
+    GROUND: Kangaroos are ground animals.
+
+    PIN: A kangaroo can be pinned to the ground.
+
+    DOCTOR: A kangaroo can be a doctor in some Aboriginal cultures.
+
+    TAIL: A kangaroo has a tail.
+
+
+    The two words that are most related to the given clue are AUSTRALIA and TAIL.
+
+
+    Answer: AUSTRALIA, TAIL'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: LEAD, AUSTRALIA, FACE, SMUGGLER, GROUND, PIN, DOCTOR, TAIL
+
+    Clue: KANGAROO
+
+    '
+da12e6fe-f143-4e55-854c-09f63b8f4696:
+- completion: 'First let''s see why HANDLE might be related to each of the given words.
+
+
+    PAN: A pan has a handle.
+
+    SHAKESPEARE: Shakespeare wrote plays with characters who often had to handle difficult
+    situations.
+
+    MINE: A mine has a handle on the entrance.
+
+    TEACHER: A teacher has to handle a classroom of students.
+
+    HOSPITAL: A hospital has a handle on the entrance.
+
+    BAND: A band has a conductor who has to handle the group.
+
+    CENTAUR: A centaur has a handle on its bridle.
+
+    FAN: A fan has a handle.
+
+
+    The two words that are most related to the given clue are PAN and FAN.
+
+
+    Answer: PAN, FAN'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: PAN, SHAKESPEARE, MINE, TEACHER, HOSPITAL, BAND, CENTAUR, FAN
+
+    Clue: HANDLE
+
+    '
+de0c64e4-7e0b-4e0e-963c-7785eb8cdaab:
+- completion: 'First let''s see why WATER might be related to each of the given words.
+
+
+    BOTTLE: Water can be stored in a bottle.
+
+    SNOW: Snow is made of frozen water.
+
+    ANTARCTICA: Antarctica is covered in ice and snow, which is made of water.
+
+    LEPRECHAUN: Leprechauns are said to live near a pot of gold at the end of a rainbow,
+    which is made of water.
+
+    HORN: A horn can be filled with water.
+
+    SCREEN: A water screen is a type of projection screen.
+
+    CENTAUR: Centaurs are said to be able to cross rivers and streams, which are made
+    of water.
+
+    CELL: Cells are made up of mostly water.
+
+
+    The two words that are most related to the given clue are BOTTLE and CELL.
+
+
+    Answer: BOTTLE, CELL'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: BOTTLE, SNOW, ANTARCTICA, LEPRECHAUN, HORN, SCREEN, CENTAUR, CELL
+
+    Clue: WATER
+
+    '
+df8c5f2d-5839-4296-a116-0f16d96baa88:
+- completion: 'First let''s see why BARREL might be related to each of the given words.
+
+
+    PIPE: A pipe can be made from a barrel.
+
+    SOCK: A barrel can be used to store socks.
+
+    MOSCOW: Barrels of vodka are produced in Moscow.
+
+    BEACH: Barrels can be used to store items at the beach.
+
+    GAME: Barrels can be used in some games.
+
+    BRUSH: A barrel can be used to store a brush.
+
+    PISTOL: A pistol can be stored in a barrel.
+
+    DISEASE: Barrels can be used to store medical supplies to treat diseases.
+
+
+    The two words that are most related to the given clue are PISTOL and BRUSH.
+
+
+    Answer: PISTOL, BRUSH'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: PIPE, SOCK, MOSCOW, BEACH, GAME, BRUSH, PISTOL, DISEASE
+
+    Clue: BARREL
+
+    '
+e29ecb68-8bf3-4c1c-875e-f1b904666129:
+- completion: 'First let''s see why GIZA might be related to each of the given words.
+
+
+    PYRAMID: The Great Pyramid of Giza is one of the Seven Wonders of the World.
+
+    GLASS: The Great Pyramid of Giza is made of limestone and granite, which are both
+    types of glass.
+
+    TEMPLE: The Great Pyramid of Giza is a temple.
+
+    SHOT: The Great Pyramid of Giza is often photographed.
+
+    TELESCOPE: The Great Pyramid of Giza can be seen from a telescope.
+
+    EGYPT: The Great Pyramid of Giza is located in Egypt.
+
+    DUCK: The Great Pyramid of Giza is often associated with the duck symbol.
+
+    NEEDLE: The Great Pyramid of Giza is sometimes referred to as the "Needle of Giza."
+
+
+    The two words that are most related to the given clue are PYRAMID and EGYPT.
+
+
+    Answer: PYRAMID, EGYPT'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: PYRAMID, GLASS, TEMPLE, SHOT, TELESCOPE, EGYPT, DUCK, NEEDLE
+
+    Clue: GIZA
+
+    '
+e80ef352-b4cc-4714-98da-c86815956ef0:
+- completion: 'First let''s see why PARAKEET might be related to each of the given
+    words.
+
+
+    FILE: A file can be used to trim a parakeet''s nails.
+
+    DRAGON: Parakeets are sometimes referred to as "dragon birds."
+
+    ROCK: Parakeets like to perch on rocks.
+
+    HOLE: Parakeets like to hide in holes.
+
+    TAP: Parakeets can be trained to tap on a table.
+
+    CRANE: Parakeets are related to cranes.
+
+    SHAKESPEARE: Parakeets are mentioned in Shakespeare''s plays.
+
+    VET: A vet can help care for a parakeet.
+
+
+    The two words that are most related to the given clue are CRANE and VET.
+
+
+    Answer: CRANE, VET'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: FILE, DRAGON, ROCK, HOLE, TAP, CRANE, SHAKESPEARE, VET
+
+    Clue: PARAKEET
+
+    '
+f3fb34b2-d866-4745-904e-aa802a783ef1:
+- completion: 'First let''s see why CENTROID might be related to each of the given
+    words.
+
+
+    AUSTRALIA: The centroid of Australia is located in the Northern Territory.
+
+    SPACE: The centroid of a space is the point at which all the mass is balanced.
+
+    MASS: The centroid of a mass is the point at which all the mass is balanced.
+
+    KIWI: The centroid of New Zealand (where kiwis are from) is located in the North
+    Island.
+
+    ALPS: The centroid of the Alps is located in Switzerland.
+
+    LAWYER: A lawyer might be familiar with the concept of a centroid.
+
+    CENTER: The centroid is the center of a mass.
+
+    PLOT: A centroid might be used to plot a graph.
+
+
+    The two words that are most related to the given clue are MASS and CENTER.
+
+
+    Answer: MASS, CENTER'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: AUSTRALIA, SPACE, MASS, KIWI, ALPS, LAWYER, CENTER, PLOT
+
+    Clue: CENTROID
+
+    '
+f44211c5-3328-402c-81d7-b58373218154:
+- completion: 'First let''s see why EXPLORATION might be related to each of the given
+    words.
+
+
+    AFRICA: Explorers have traveled to Africa to discover new lands.
+
+    JUPITER: Explorers have sent probes to explore Jupiter.
+
+    NINJA: Ninjas were often used as spies to explore enemy territory.
+
+    NIGHT: Explorers often go out at night to explore.
+
+    DRESS: Explorers often wear special clothing to explore.
+
+    GIANT: Explorers often look for giant creatures to explore.
+
+    CAP: Explorers often wear caps to protect them from the sun.
+
+    CONCERT: Explorers often attend concerts to explore different cultures.
+
+
+    The two words that are most related to the given clue are NIGHT and DRESS.
+
+
+    Answer: NIGHT, DRESS'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: AFRICA, JUPITER, NINJA, NIGHT, DRESS, GIANT, CAP, CONCERT
+
+    Clue: EXPLORATION
+
+    '
+fba8f593-3590-480f-b1ce-dbd391529172:
+- completion: 'First let''s see why HOT might be related to each of the given words.
+
+
+    FENCE: A fence can get hot in the sun.
+
+    FIRE: Fire is hot.
+
+    SUB: A submarine can get hot in the sun.
+
+    SUPERHERO: Superheroes often have hot powers.
+
+    POOL: A pool can be heated to be hot.
+
+    NOVEL: A novel can be hot in terms of popularity.
+
+    BEAT: A beat can be hot in terms of being popular.
+
+    MERCURY: Mercury is a hot planet.
+
+
+    The two words that are most related to the given clue are FIRE and MERCURY.
+
+
+    Answer: FIRE, MERCURY'
+  prompt: 'Find the 2 words from the given words that are most related to the given
+    clue.
+
+
+    Words: YOGA, LIMOUSINE, BOARD
+
+    Clue: BLACK
+
+
+    First let''s see why BLACK might be related to each of the given words.
+
+
+    YOGA: A yoga mat could be black.
+
+    LIMOUSINE: Limousines are often black in color.
+
+    BOARD: A blackboard is a common item.
+
+
+    The two words that are most related to the given clue are LIMOUSINE and BOARD.
+
+
+    Answer: LIMOUSINE, BOARD
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: CHINA, UMBRELLA, CLAY
+
+    Clue: PORCELAIN
+
+
+    First let''s see why PORCELAIN might be related to each of the given words.
+
+
+    CHINA: Porcelain is often referred to as "china."
+
+    UMBRELLA: An umbrella might be white in color like porcelain.
+
+    CLAY: Porcelain is made from kaolin, a type of clay.
+
+
+    The two words that are most related to the given clue are CHINA and CLAY.
+
+
+    Answer: CHINA, CLAY
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: HELICOPTER, INDIA, BUG
+
+    Clue: CRICKET
+
+
+    First let''s see why CRICKET might be related to each of the given words.
+
+
+    HELICOPTER: Cricketes and helicopters can both fly.
+
+    INDIA: Cricket is a popular sport in India.
+
+    BUG: A cricket is an insect, which is a bug.
+
+
+    The two words that are most related to the given clue are INDIA and BUG.
+
+
+    Answer: INDIA, BUG
+
+
+    Find the 2 words from the given words that are most related to the given clue.
+
+
+    Words: FENCE, FIRE, SUB, SUPERHERO, POOL, NOVEL, BEAT, MERCURY
+
+    Clue: HOT
+
+    '

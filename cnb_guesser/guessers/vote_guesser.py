@@ -11,7 +11,6 @@ class VoteGuesser(GuesserBase):
         self._guesser = ListGuesser()
     
     def guess(self, words, clue, num):
-        notes = []
         votes = { word: 0 for word in words}
         guesses_list = []
 

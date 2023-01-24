@@ -42,3 +42,48 @@ BUG: A cricket is an insect, which is a bug.
 The two words that are most related to the given clue are INDIA and BUG.
 
 Answer: INDIA, BUG
+
+Find the 2 words from the given words that are most related to the given clue.
+
+Words: CONTRACT, JUPITER, BUG
+Clue: MALARIA
+
+First let's see why MALARIA might be related to each of the given words.
+
+CONTRACT: Malaria is a disease that can be contracted.
+JUPITER: Jupiter and malaria are not related.
+BUG: Malaria is transmitted by mosquitos, which are bugs.
+
+The two words that are most related to the given clue are MALARIA and BUG.
+
+Answer: MALARIA, BUG
+
+Find the 2 words from the given words that are most related to the given clue.
+
+Words: TABLE, TORCH, ICE
+Clue: MELT
+
+First let's see why MELT might be related to each of the given words.
+
+TABLE: A table can be a surface on which items are melted.
+TORCH: A torch can be used to melt things.
+ICE: Ice melts at room temperature.
+
+The two words that are most related to the given clue are TORCH and ICE.
+
+Answer: TORCH, ICE
+
+Find the 2 words from the given words that are most related to the given clue.
+
+Words: CROSS, MAMMOTH, FROG
+Clue: HAIR
+
+First let's see why HAIR might be related to each of the given words.
+
+CROSS: A crosshair is a sight on a gun.
+MAMMOTH: A mammoth is covered in hair.
+FROG: A frog is not covered in hair.
+
+The two words that are most related to the given clue are CROSS and MAMMOTH.
+
+Answer: CROSS, MAMMOTH

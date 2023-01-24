@@ -16,6 +16,7 @@ PyYAML = "^6.0"
 [tool.poetry.scripts]
 generate-guesses = "cnb_guesser.generate_guesses:main"
 evaluate-guesses = "cnb_guesser.evaluate_guesses:main"
+generate-votes-guesses = "cnb_guesser.generate_vote_guesses:main"
 
 [build-system]
 requires = ["poetry-core"]

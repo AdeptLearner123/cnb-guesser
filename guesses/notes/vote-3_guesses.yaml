@@ -1,0 +1,408 @@
+0542c82f-e431-4f00-978a-c3040c9fa1bd:
+  guesses:
+  - [HAWK, BAT]
+  - [BAT, HAWK]
+  - [HAWK, BAT]
+  votes: {BAT: 3, HAWK: 3}
+12b79d06-a22d-47bc-8b13-c8b3f9f3c378:
+  guesses:
+  - [FIGURE, HAND]
+  - [HAND, FIGURE]
+  - [HAND, FIGURE]
+  votes: {FIGURE: 3, HAND: 3}
+182d98a0-ff78-433e-ac8e-c3b8da9c4f5b:
+  guesses:
+  - [BOX, MAIL]
+  - [BOX, MAIL]
+  - [MAIL, BOX]
+  votes: {BOX: 3, MAIL: 3}
+18344685-887e-4985-b295-f7b84ff98d07:
+  guesses:
+  - [SNOWMAN, ICE]
+  - [SNOWMAN, ICE]
+  - [ICE, SNOWMAN]
+  votes: {ICE: 3, SNOWMAN: 3}
+1acbc5a2-a355-44f2-94e4-54503ca5999f:
+  guesses:
+  - [STRIKE, CONTRACT]
+  - [STRIKE, COLD]
+  - [DIAMOND, STRIKE]
+  votes: {COLD: 1, CONTRACT: 1, DIAMOND: 1, STRIKE: 3}
+1e51775a-6a30-4771-9431-62d506b7ff38:
+  guesses:
+  - [BUGLE, BELL]
+  - [BUGLE, BELL]
+  - [BUGLE, BELL]
+  votes: {BELL: 3, BUGLE: 3}
+1eccbf1b-bf56-45c1-a934-763493bd4950:
+  guesses:
+  - [BILL, DRAFT]
+  - [BILL, DRAFT]
+  - [BILL, DRAFT]
+  votes: {BILL: 3, DRAFT: 3}
+2414344d-448d-44dc-a5ac-5a017c086de5:
+  guesses:
+  - [HONEY, BEAT]
+  - [HONEY, BEAT]
+  - [BELT, BEAT]
+  votes: {BEAT: 3, BELT: 1, HONEY: 2}
+2a5b101f-4258-491b-9a69-d86043b2497e:
+  guesses:
+  - [CHAIR, COVER]
+  - [CHAIR, COVER]
+  - [CHAIR, HEAD]
+  votes: {CHAIR: 3, COVER: 2, HEAD: 1}
+2dbaf967-2de2-4115-848a-0e93d176b49f:
+  guesses:
+  - [WATER, BOTTLE]
+  - [MOUTH, BOTTLE]
+  - [BOTTLE, MOUTH]
+  votes: {BOTTLE: 3, MOUTH: 2, WATER: 1}
+2f2aaf41-2de3-4df7-bd7a-e599c0c22ebe:
+  guesses:
+  - [LAWYER, CONTRACT]
+  - [LAWYER, CONTRACT]
+  - [LAWYER, CONTRACT]
+  votes: {CONTRACT: 3, LAWYER: 3}
+32870d9f-2a41-49f0-8d14-7c2ba32a2805:
+  guesses:
+  - [GREEN, WASHINGTON]
+  - [GREEN, WASHINGTON]
+  - [GREEN, WASHINGTON]
+  votes: {GREEN: 3, WASHINGTON: 3}
+34c4ad20-d46a-4258-aee4-ed7505e8500d:
+  guesses:
+  - [ENGINE, CRASH]
+  - [ENGINE, GLOVE]
+  - [ENGINE, CRASH]
+  votes: {CRASH: 2, ENGINE: 3, GLOVE: 1}
+3671aed1-64cc-4f87-a38e-61edc97eacec:
+  guesses:
+  - [CHEST, BEACH]
+  - [CHEST, BEACH]
+  - [CHEST, BEACH]
+  votes: {BEACH: 3, CHEST: 3}
+36daab5a-f15b-4291-98bf-b0f28bf69e2a:
+  guesses:
+  - [SATELLITE, SPACE]
+  - [SPACE, SATELLITE]
+  - [SPACE, SATELLITE]
+  votes: {SATELLITE: 3, SPACE: 3}
+399da5c2-85e9-4e60-a6ba-c96728113e2c:
+  guesses:
+  - [TEMPLE, MOUNT]
+  - [MOUNT, TEMPLE]
+  - [TEMPLE, MOUNT]
+  votes: {MOUNT: 3, TEMPLE: 3}
+3da6de54-6aa9-4ef9-9120-5f4a0b69c073:
+  guesses:
+  - [DRESS, SHOE]
+  - [SHOE, DRESS]
+  - [SHOE, DRESS]
+  votes: {DRESS: 3, SHOE: 3}
+3f429e5c-90be-409d-9475-759287140338:
+  guesses:
+  - [POLICE, FAIR]
+  - [POLICE, FAIR]
+  - [POLICE, FAIR]
+  votes: {FAIR: 3, POLICE: 3}
+3f481c58-23bf-4702-96a9-7d454a619334:
+  guesses:
+  - [CENTAUR, PLATYPUS]
+  - [CENTAUR, PLATYPUS]
+  - [PLATYPUS, CENTAUR]
+  votes: {CENTAUR: 3, PLATYPUS: 3}
+42f04d8c-155e-478e-8a89-f37a7cde0f72:
+  guesses:
+  - [CROSS, SWING]
+  - [CLUB, SWING]
+  - [CLUB, COVER]
+  votes: {CLUB: 2, COVER: 1, CROSS: 1, SWING: 2}
+44feb926-eb50-4fd0-9a86-ec1cb0cd5723:
+  guesses:
+  - [MICROSCOPE, HEAD]
+  - [MICROSCOPE, HEAD]
+  - [SCALE, HEAD]
+  votes: {HEAD: 3, MICROSCOPE: 2, SCALE: 1}
+491c0374-59d7-49f9-8e22-61e4cdd42090:
+  guesses:
+  - [CONCERT, STRING]
+  - [TRIP, STRING]
+  - [CONCERT, STRING]
+  votes: {CONCERT: 2, STRING: 3, TRIP: 1}
+4a5eeea8-4768-4559-a27c-2bbaba201032:
+  guesses:
+  - [BAR, BELT]
+  - [PISTOL, BELT]
+  - [HOLE, BELT]
+  votes: {BAR: 1, BELT: 3, HOLE: 1, PISTOL: 1}
+4bdf2d46-08cf-48ab-a790-91d285ee9d42:
+  guesses:
+  - [DECK, SINK]
+  - [DECK, SINK]
+  - [DECK, SINK]
+  votes: {DECK: 3, SINK: 3}
+54a29e40-b210-43d9-a86a-74986edc792f:
+  guesses:
+  - [MAPLE, DESIDUOUS]
+  - [MAPLE, DESIDUOUS]
+  - [MAPLE, FALL]
+  votes: {DESIDUOUS: 2, FALL: 1, MAPLE: 3}
+54a51ee2-4907-4302-a01c-2cdd893f089e:
+  guesses:
+  - [DICE, ROULETTE]
+  - [DICE, ROULETTE]
+  - [ROULETTE, DICE]
+  votes: {DICE: 3, ROULETTE: 3}
+60de06f4-b7dd-454a-8f5f-28a62f5f59f7:
+  guesses:
+  - [FRANCE, GREECE]
+  - [FRANCE, GREECE]
+  - [GREECE, FRANCE]
+  votes: {FRANCE: 3, GREECE: 3}
+68a5a261-b73b-4c5a-8f8e-1c9a82c96495:
+  guesses:
+  - [SQUARE, CENTER]
+  - [MOON, SQUARE]
+  - [SQUARE, CENTER]
+  votes: {CENTER: 2, MOON: 1, SQUARE: 3}
+68af6af1-1b50-42dd-80e0-916db4e7e7bf:
+  guesses:
+  - [GHOST, REVOLUTION]
+  - [GHOST, REVOLUTION]
+  - [GHOST, DWARF]
+  votes: {DWARF: 1, GHOST: 3, REVOLUTION: 2}
+6b24c84b-ba4a-4090-bcf6-70acf7a78f8a:
+  guesses:
+  - [TICK, WIND]
+  - [TICK, BUFFALO]
+  - [TICK, WIND]
+  votes: {BUFFALO: 1, TICK: 3, WIND: 2}
+6fac8c2a-25c6-48d1-9026-5116373550a4:
+  guesses:
+  - [DWARF, RABBIT]
+  - [DWARF, SHOE]
+  - [SHOE, APPLE]
+  votes: {APPLE: 1, DWARF: 2, RABBIT: 1, SHOE: 2}
+721bde71-7f0a-4b26-81f6-5662595766fb:
+  guesses:
+  - [CLIFF, POINT]
+  - [TOOTH, CLIFF]
+  - [CLIFF, POINT]
+  votes: {CLIFF: 3, POINT: 2, TOOTH: 1}
+749768a0-21cd-4a20-a13d-e5ecfc6d0f5d:
+  guesses:
+  - [HAND, HORSE]
+  - [HORSE, MOLE]
+  - [HAND, MOLE]
+  votes: {HAND: 2, HORSE: 2, MOLE: 2}
+768e116b-5c42-4abe-a65c-d4381397fb72:
+  guesses:
+  - [TORCH, MOUTH]
+  - [TORCH, TRAIN]
+  - [TORCH, FIREBOMB]
+  votes: {FIREBOMB: 1, MOUTH: 1, TORCH: 3, TRAIN: 1}
+78ea75b7-d341-4865-b411-063cc7ca59c6:
+  guesses:
+  - [KING, FIGURE]
+  - [KING, FIGURE]
+  - [KING, FIGURE]
+  votes: {FIGURE: 3, KING: 3}
+7aecaf64-3602-4483-a350-5d06bdef9cac:
+  guesses:
+  - [HEART, FALL]
+  - [HEART, THIEF]
+  - [HEART, FALL]
+  votes: {FALL: 2, HEART: 3, THIEF: 1}
+7c1c6030-80c6-4cf6-9931-6c45b29e52b0:
+  guesses:
+  - [PIRATE, PILOT]
+  - [PIRATE, PILOT]
+  - [PIRATE, PILOT]
+  votes: {PILOT: 3, PIRATE: 3}
+7dfe03b6-4a14-4981-9fce-d9b0fa93c7ae:
+  guesses:
+  - [PART, JACK]
+  - [PART, COVER]
+  - [JACK, PART]
+  votes: {COVER: 1, JACK: 2, PART: 3}
+8067c153-b4ef-453e-9da3-a70d93181303:
+  guesses:
+  - [TICK, MOUSE]
+  - [MOUSE, TICK]
+  - [TICK, MOUSE]
+  votes: {MOUSE: 3, TICK: 3}
+85f4f2a2-b09d-4787-a94b-cc4cc1fd4855:
+  guesses:
+  - [DINOSAUR, GREEN]
+  - [DINOSAUR, FILM]
+  - [DINOSAUR, FILM]
+  votes: {DINOSAUR: 3, FILM: 2, GREEN: 1}
+8f4f536b-4ef1-49dd-b465-9dbbd4545ef6:
+  guesses:
+  - [PASTE, CAST]
+  - [PASTE, PLASTER]
+  - [CAST, PASTE]
+  votes: {CAST: 2, PASTE: 3, PLASTER: 1}
+8f61ac27-58b1-44a8-b4c6-d1ed09856e58:
+  guesses:
+  - [CZECH, STREAM]
+  - [STREAM, VET]
+  - [CZECH, STREAM]
+  votes: {CZECH: 2, STREAM: 3, VET: 1}
+8fe26699-f581-4307-b820-3d9f04411e33:
+  guesses:
+  - [CODE, SHADOW]
+  - [CODE, REVOLUTION]
+  - [CODE, REVOLUTION]
+  votes: {CODE: 3, REVOLUTION: 2, SHADOW: 1}
+91e77166-8cbc-415e-a3f7-e54e63cfe25b:
+  guesses:
+  - [MODEL, SPY]
+  - [MODEL, SPY]
+  - [MODEL, SPY]
+  votes: {MODEL: 3, SPY: 3}
+92c63555-83d7-47d2-b3e5-c81aa3e92b08:
+  guesses:
+  - [BED, FENCE]
+  - [BED, FENCE]
+  - [FENCE, BED]
+  votes: {BED: 3, FENCE: 3}
+9955eb08-fe99-4710-9417-64507d1af7aa:
+  guesses:
+  - [MOON, PUMPKIN]
+  - [MOON, PUMPKIN]
+  - [MOON, PUMPKIN]
+  votes: {MOON: 3, PUMPKIN: 3}
+a13ef486-b586-4c13-9ed4-6e6d9b5d4985:
+  guesses:
+  - [MEXICO, CAPITAL]
+  - [CAPITAL, MEXICO]
+  - [MEXICO, JUPITER]
+  votes: {CAPITAL: 2, JUPITER: 1, MEXICO: 3}
+a2f4683e-be50-4d6b-813f-b18ed9b441dd:
+  guesses:
+  - [CRICKET, MARCH]
+  - [FILM, STADIUM]
+  - [STADIUM, FILM]
+  votes: {CRICKET: 1, FILM: 2, MARCH: 1, STADIUM: 2}
+a2f71312-e1df-4b8e-b981-cf50b7f3d6c2:
+  guesses:
+  - [LIFE, ORGAN]
+  - [MOUSE, PLATYPUS]
+  - [LIFE, ORGAN]
+  votes: {LIFE: 2, MOUSE: 1, ORGAN: 2, PLATYPUS: 1}
+ac49ff97-062d-4dcd-a214-1b439056623b:
+  guesses:
+  - [BOARD, SCREEN]
+  - [CAP, BOARD]
+  - [CAP, BOARD]
+  votes: {BOARD: 3, CAP: 2, SCREEN: 1}
+b5db62bf-7261-4db0-bce3-f2f57c2bfe71:
+  guesses:
+  - [PUPIL, LIFE]
+  - [PUPIL, LIFE]
+  - [PUPIL, LIFE]
+  votes: {LIFE: 3, PUPIL: 3}
+b90d2d77-00b1-4ef2-beb7-8ca4e58f130f:
+  guesses:
+  - [NOTE, WAKE]
+  - [NOTE, TABLE]
+  - [NOTE, COVER]
+  votes: {COVER: 1, NOTE: 3, TABLE: 1, WAKE: 1}
+b933d451-56f0-4392-895e-d8098a29a49f:
+  guesses:
+  - [ROOT, FOREST]
+  - [FOREST, ROOT]
+  - [FOREST, ROOT]
+  votes: {FOREST: 3, ROOT: 3}
+c10edb38-f04c-4bba-9e3d-a1fe186ae2a2:
+  guesses:
+  - [KNIFE, STAB]
+  - [KNIFE, DEATH]
+  - [KNIFE, PIRATE]
+  votes: {DEATH: 1, KNIFE: 3, PIRATE: 1, STAB: 1}
+c1520320-ced3-46a6-9f3e-e721506d207c:
+  guesses:
+  - [WAR, STAFF]
+  - [WAR, STAFF]
+  - [WAR, BEAR]
+  votes: {BEAR: 1, STAFF: 2, WAR: 3}
+c6d31d79-355f-44d4-a725-66cf805efc84:
+  guesses:
+  - [WITCH, UNICORN]
+  - [WITCH, UNICORN]
+  - [WITCH, UNICORN]
+  votes: {UNICORN: 3, WITCH: 3}
+cfbf7872-b4cd-4623-aac4-f04cb27cebb9:
+  guesses:
+  - [DRILL, POLE]
+  - [OIL, DRILL]
+  - [POLE, COMPOUND]
+  votes: {COMPOUND: 1, DRILL: 2, OIL: 1, POLE: 2}
+d536125c-7b09-4724-b22b-1ae874a813bd:
+  guesses:
+  - [BRUSH, PART]
+  - [BRUSH, TAP]
+  - [BRUSH, PART]
+  votes: {BRUSH: 3, PART: 2, TAP: 1}
+d6096ad4-e016-4260-8944-385f8c12540e:
+  guesses:
+  - [VET, DOG]
+  - [DOG, VET]
+  - [VET, DOG]
+  votes: {DOG: 3, VET: 3}
+d7505f18-5021-49a2-a785-5dbd58a73b61:
+  guesses:
+  - [TAIL, GROUND]
+  - [AUSTRALIA, TAIL]
+  - [AUSTRALIA, TAIL]
+  votes: {AUSTRALIA: 2, GROUND: 1, TAIL: 3}
+da12e6fe-f143-4e55-854c-09f63b8f4696:
+  guesses:
+  - [BAND, PAN]
+  - [FAN, PAN]
+  - [FAN, PAN]
+  votes: {BAND: 1, FAN: 2, PAN: 3}
+de0c64e4-7e0b-4e0e-963c-7785eb8cdaab:
+  guesses:
+  - [SNOW, CELL]
+  - [BOTTLE, SNOW]
+  - [BOTTLE, SNOW]
+  votes: {BOTTLE: 2, CELL: 1, SNOW: 3}
+df8c5f2d-5839-4296-a116-0f16d96baa88:
+  guesses:
+  - [PIPE, PISTOL]
+  - [PISTOL, PIPE]
+  - [PIPE, PISTOL]
+  votes: {PIPE: 3, PISTOL: 3}
+e29ecb68-8bf3-4c1c-875e-f1b904666129:
+  guesses:
+  - [PYRAMID, EGYPT]
+  - [PYRAMID, EGYPT]
+  - [PYRAMID, TEMPLE]
+  votes: {EGYPT: 2, PYRAMID: 3, TEMPLE: 1}
+e80ef352-b4cc-4714-98da-c86815956ef0:
+  guesses:
+  - [CRANE, HOLE]
+  - [DRAGON, CRANE]
+  - [VET, CRANE]
+  votes: {CRANE: 3, DRAGON: 1, HOLE: 1, VET: 1}
+f3fb34b2-d866-4745-904e-aa802a783ef1:
+  guesses:
+  - [CENTER, SPACE]
+  - [MASS, SPACE]
+  - [MASS, CENTER]
+  votes: {CENTER: 2, MASS: 2, SPACE: 2}
+f44211c5-3328-402c-81d7-b58373218154:
+  guesses:
+  - [AFRICA, JUPITER]
+  - [GIANT, AFRICA]
+  - [AFRICA, JUPITER]
+  votes: {AFRICA: 3, GIANT: 1, JUPITER: 2}
+fba8f593-3590-480f-b1ce-dbd391529172:
+  guesses:
+  - [FIRE, POOL]
+  - [FIRE, MERCURY]
+  - [FIRE, MERCURY]
+  votes: {FIRE: 3, MERCURY: 2, POOL: 1}
