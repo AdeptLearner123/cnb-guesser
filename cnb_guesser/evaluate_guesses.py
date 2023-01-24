@@ -33,7 +33,7 @@ def main():
     corrects = Counter()
     totals = Counter()
     failures = []
-    for scenario_id in scenario_guesses:
+    for scenario_id in scenarios:
         keys = ["all"]
         if scenarios_data[scenario_id]["is_easy"]:
             keys.append("easy")
@@ -61,7 +61,7 @@ def main():
             print("Pos:", scenarios[failure_id]["pos"])
             print("Clue:", scenarios[failure_id]["clue"])
             print("Guess:", scenario_guesses[failure_id])
-            print("Notes:", notes[failure_id])
+            print("Notes:", yaml.dump(notes[failure_id]))
 
 
 if __name__ == "__main__":

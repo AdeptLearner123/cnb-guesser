@@ -25,30 +25,19 @@ class GPTGuesser(GuesserBase):
 
 class SimpleGuesser(GPTGuesser):
     def guess(self, words, clue, num):
+        self._completer.clear_history()
+
         prompt = self.get_instruction(words, clue, num) + \
                 "Related words (comma-separated):"
         
         completion = self._completer._get_completion(prompt)
-        return self.process_answer(completion), prompt + completion
-
-
-class CoTGuesser(GPTGuesser):
-    def guess(self, words, clue, num):
-        prompt = self.get_instruction(words, clue, num) + \
-                "Let's think step-by-step."
-        
-        completion = self._completer._get_completion(prompt)
-
-        prompt2 = prompt + completion + "\n\n" +\
-            "Related words (comma-separated):"
-        
-        print(prompt2)
-        completion2 = self._completer._get_completion(prompt2)
-        return self.process_answer(completion2), prompt2 + completion2
+        return self.process_answer(completion), self._completer.get_history()
 
 
 class ListGuesser(GPTGuesser):
     def guess(self, words, clue, num):
+        self._completer.clear_history()
+
         prompt = self.get_instruction(words, clue, num) + "\n" + \
                 f"First let's see why {clue} might be related to each of the given words."
         
@@ -59,4 +48,4 @@ class ListGuesser(GPTGuesser):
         
         print(prompt2)
         completion2 = self._completer._get_completion(prompt2)
-        return self.process_answer(completion2), prompt2 + completion2
+        return self.process_answer(completion2), self._completer.get_history()

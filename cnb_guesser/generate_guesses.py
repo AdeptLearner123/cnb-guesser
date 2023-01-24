@@ -42,7 +42,6 @@ def main():
         with open(notes_path, "r") as file:
             notes = yaml.safe_load(file.read())
     
-    #scenario_ids = list(scenarios.keys())[:100]
     missing_scenarios = [ scenario_id for scenario_id in scenarios if scenario_id not in guesses ]
 
     for key in tqdm(missing_scenarios):
@@ -57,6 +56,6 @@ def main():
             file.write(yaml.dump(guesses, default_flow_style=None))
         
         with open(notes_path, "w+") as file:
-            file.write(yaml.dump(notes, default_style="|"))        
+            file.write(yaml.dump(notes, default_style=None))        
 
         model.print_usage()

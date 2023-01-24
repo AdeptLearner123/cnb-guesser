@@ -10,10 +10,11 @@ class VectorGuesser(GuesserBase):
     def guess(self, words, clue, num):
         word_similarities = [ (self._similarity(word, clue), word) for word in words ]
         word_similarities = sorted(word_similarities, reverse=True)
-        print(word_similarities)
         top_words = word_similarities[:num]
         top_words = [ word for _, word in top_words ]
-        return top_words
+
+        notes = "\n".join([ f"{word}: {similarity}" for similarity, word in word_similarities ])
+        return top_words, notes
 
 
     def _similarity(self, word1, word2):

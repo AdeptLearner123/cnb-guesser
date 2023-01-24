@@ -1,0 +1,2108 @@
+0542c82f-e431-4f00-978a-c3040c9fa1bd:
+  guesses:
+  - - HAWK
+    - BAT
+  - - BAT
+    - HAWK
+  - - HAWK
+    - BAT
+  - - HAWK
+    - BAT
+  - - HAWK
+    - BAT
+  - - BAT
+    - HAWK
+  - - HAWK
+    - BAT
+  - - HAWK
+    - BAT
+  - - HAWK
+    - BAT
+  - - HAWK
+    - BAT
+  votes:
+    AMERICA: 0
+    BAT: 10
+    HAWK: 10
+    POISON: 0
+    SCALE: 0
+    SCORPION: 0
+    SHOT: 0
+    TOWER: 0
+12b79d06-a22d-47bc-8b13-c8b3f9f3c378:
+  guesses:
+  - - FIGURE
+    - HAND
+  - - HAND
+    - FIGURE
+  - - HAND
+    - FIGURE
+  - - FIGURE
+    - HAND
+  - - HAND
+    - FIGURE
+  - - HAND
+    - FIGURE
+  - - HAND
+    - FIGURE
+  - - HAND
+    - FIGURE
+  - - FIGURE
+    - HAND
+  - - HAND
+    - FIGURE
+  votes:
+    AUSTRALIA: 0
+    BELL: 0
+    CANADA: 0
+    CAR: 0
+    FIGURE: 10
+    HAND: 10
+    LIGHT: 0
+    MINE: 0
+182d98a0-ff78-433e-ac8e-c3b8da9c4f5b:
+  guesses:
+  - - BOX
+    - MAIL
+  - - BOX
+    - MAIL
+  - - MAIL
+    - BOX
+  - - BOX
+    - MAIL
+  - - BOX
+    - TIE
+  - - BOX
+    - TIE
+  - - BOX
+    - MAIL
+  - - BOX
+    - MAIL
+  - - BOX
+    - MAIL
+  - - BOX
+    - LINK
+  votes:
+    BOX: 10
+    CAR: 0
+    FIGURE: 0
+    JET: 0
+    LINK: 1
+    MAIL: 7
+    SWING: 0
+    TIE: 2
+18344685-887e-4985-b295-f7b84ff98d07:
+  guesses:
+  - - SNOWMAN
+    - ICE
+  - - SNOWMAN
+    - ICE
+  - - ICE
+    - SNOWMAN
+  - - ICE
+    - FIRE
+  - - ICE
+    - CLIFF
+  - - ICE
+    - SNOWMAN
+  - - ICE
+    - SNOWMAN
+  - - ICE
+    - SNOWMAN
+  - - ICE
+    - SNOWMAN
+  - - ICE
+    - SNOWMAN
+  votes:
+    CLIFF: 1
+    CONCERT: 0
+    FIRE: 1
+    GIANT: 0
+    ICE: 10
+    LOCK: 0
+    SNOWMAN: 8
+    SQUARE: 0
+1acbc5a2-a355-44f2-94e4-54503ca5999f:
+  guesses:
+  - - STRIKE
+    - CONTRACT
+  - - STRIKE
+    - COLD
+  - - DIAMOND
+    - STRIKE
+  - - DIAMOND
+    - STRIKE
+  - - STRIKE
+    - DIAMOND
+  - - STRIKE
+    - TIME
+  - - STRIKE
+    - COLD
+  - - DIAMOND
+    - STRIKE
+  - - STRIKE
+    - TIME
+  - - DIAMOND
+    - PICKAXE
+  votes:
+    BAND: 0
+    COLD: 2
+    CONTRACT: 1
+    CYCLE: 0
+    DIAMOND: 5
+    KANGAROO: 0
+    STRIKE: 9
+    TIME: 2
+1e51775a-6a30-4771-9431-62d506b7ff38:
+  guesses:
+  - - BUGLE
+    - BELL
+  - - BUGLE
+    - BELL
+  - - BUGLE
+    - BELL
+  - - BUGLE
+    - BELL
+  - - BELL
+    - BUGLE
+  - - BUGLE
+    - BELL
+  - - BELL
+    - BUGLE
+  - - BUGLE
+    - BELL
+  - - BUGLE
+    - BELL
+  - - BELL
+    - BUGLE
+  votes:
+    ALPS: 0
+    BELL: 10
+    BUGLE: 10
+    CODE: 0
+    DAY: 0
+    DRAFT: 0
+    FIGURE: 0
+    VAN: 0
+1eccbf1b-bf56-45c1-a934-763493bd4950:
+  guesses:
+  - - BILL
+    - DRAFT
+  - - BILL
+    - DRAFT
+  - - BILL
+    - DRAFT
+  - - BILL
+    - DRAFT
+  - - BILL
+    - DRAFT
+  - - BILL
+    - IVORY
+  - - BILL
+    - DRAFT
+  - - BILL
+    - DRAFT
+  - - BILL
+    - DRAFT
+  - - BILL
+    - DRAFT
+  votes:
+    AFRICA: 0
+    BILL: 10
+    DRAFT: 9
+    DRAGON: 0
+    IVORY: 1
+    LION: 0
+    NURSE: 0
+    SHARK: 0
+2414344d-448d-44dc-a5ac-5a017c086de5:
+  guesses:
+  - - HONEY
+    - BEAT
+  - - HONEY
+    - BEAT
+  - - BELT
+    - BEAT
+  - - HONEY
+    - COPPER
+  - - HONEY
+    - BEAT
+  - - HONEY
+    - BEAT
+  - - HONEY
+    - BEAT
+  - - LOCK
+    - HONEY
+  - - HONEY
+    - BEAT
+  - - HONEY
+    - BEAT
+  votes:
+    BEAT: 8
+    BELT: 1
+    CHEST: 0
+    COPPER: 1
+    HONEY: 9
+    LAB: 0
+    LOCK: 1
+    SLUG: 0
+2a5b101f-4258-491b-9a69-d86043b2497e:
+  guesses:
+  - - CHAIR
+    - COVER
+  - - CHAIR
+    - COVER
+  - - CHAIR
+    - HEAD
+  - - CHAIR
+    - COVER
+  - - IVORY
+    - WALL
+  - - CHAIR
+    - WALL
+  - - CHAIR
+    - IVORY
+  - - CHAIR
+    - HEAD
+  - - IVORY
+    - PYRAMID
+  - - CHAIR
+    - HEAD
+  votes:
+    CHAIR: 8
+    COVER: 3
+    HEAD: 3
+    IVORY: 3
+    MICROSCOPE: 0
+    MOUTH: 0
+    PYRAMID: 1
+    WALL: 2
+2dbaf967-2de2-4115-848a-0e93d176b49f:
+  guesses:
+  - - WATER
+    - BOTTLE
+  - - MOUTH
+    - BOTTLE
+  - - BOTTLE
+    - MOUTH
+  - - BOTTLE
+    - WATER
+  - - WATER
+    - BOTTLE
+  - - WATER
+    - BOTTLE
+  - - BOTTLE
+    - WATER
+  - - BOTTLE
+    - WATER
+  - - BOTTLE
+    - WATER
+  - - WATER
+    - BOTTLE
+  votes:
+    BEAT: 0
+    BOTTLE: 10
+    CZECH: 0
+    KING: 0
+    MOUTH: 2
+    NURSE: 0
+    OPERA: 0
+    WATER: 8
+2f2aaf41-2de3-4df7-bd7a-e599c0c22ebe:
+  guesses:
+  - - LAWYER
+    - CONTRACT
+  - - LAWYER
+    - CONTRACT
+  - - LAWYER
+    - CONTRACT
+  - - CONTRACT
+    - LAWYER
+  - - CONTRACT
+    - LAWYER
+  - - LAWYER
+    - CONTRACT
+  - - CONTRACT
+    - LAWYER
+  - - CONTRACT
+    - LAWYER
+  - - CONTRACT
+    - LAWYER
+  - - LAWYER
+    - CONTRACT
+  votes:
+    CONTRACT: 10
+    EGYPT: 0
+    LAWYER: 10
+    OPERA: 0
+    ROULETTE: 0
+    SKYSCRAPER: 0
+    STICK: 0
+    TRIANGLE: 0
+32870d9f-2a41-49f0-8d14-7c2ba32a2805:
+  guesses:
+  - - GREEN
+    - WASHINGTON
+  - - GREEN
+    - WASHINGTON
+  - - GREEN
+    - WASHINGTON
+  - - GREEN
+    - WASHINGTON
+  - - GREEN
+    - WASHINGTON
+  - - GREEN
+    - FORESTS
+  - - GREEN
+    - WASHINGTON
+  - - GREEN
+    - FOREST
+  - - GREEN
+    - WASHINGTON
+  - - SATELLITE
+    - TELESCOPE
+  votes:
+    FILE: 0
+    GREEN: 9
+    HOTEL: 0
+    SATELLITE: 1
+    TELESCOPE: 1
+    THEATER: 0
+    THIEF: 0
+    WASHINGTON: 7
+34c4ad20-d46a-4258-aee4-ed7505e8500d:
+  guesses:
+  - - ENGINE
+    - CRASH
+  - - ENGINE
+    - GLOVE
+  - - ENGINE
+    - CRASH
+  - - ENGINE
+    - CRASH
+  - - ENGINE
+    - GLOVE
+  - - ENGINE
+    - CRASH
+  - - ENGINE
+    - GLOVE
+  - - ENGINE
+    - CRASH
+  - - GLOVE
+    - ENGINE
+  - - ENGINE
+    - CRASH
+  votes:
+    COPPER: 0
+    CRASH: 6
+    DINOSAUR: 0
+    ENGINE: 10
+    GLOVE: 4
+    HOSPITAL: 0
+    NOVEL: 0
+    WATER: 0
+3671aed1-64cc-4f87-a38e-61edc97eacec:
+  guesses:
+  - - CHEST
+    - BEACH
+  - - CHEST
+    - BEACH
+  - - CHEST
+    - BEACH
+  - - CHEST
+    - BEACH
+  - - CHEST
+    - BEACH
+  - - CHEST
+    - BEAR
+  - - CHEST
+    - SHOP
+  - - CHEST
+    - BEACH
+  - - CHEST
+    - SOUL
+  - - CHEST
+    - BEACH
+  votes:
+    BEACH: 7
+    BEAR: 1
+    CHEST: 10
+    HORSE: 0
+    JAM: 0
+    SHOP: 1
+    SNOW: 0
+    SOUL: 1
+36daab5a-f15b-4291-98bf-b0f28bf69e2a:
+  guesses:
+  - - SATELLITE
+    - SPACE
+  - - SPACE
+    - SATELLITE
+  - - SPACE
+    - SATELLITE
+  - - SPACE
+    - SATELLITE
+  - - SPACE
+    - SATELLITE
+  - - SATELLITE
+    - SPACE
+  - - HEART
+    - SATELLITE
+  - - SATELLITE
+    - SPACE
+  - - SATELLITE
+    - SPACE
+  - - SPACE
+    - SATELLITE
+  votes:
+    BERRY: 0
+    COPPER: 0
+    CRICKET: 0
+    DWARF: 0
+    HEART: 1
+    PLATYPUS: 0
+    SATELLITE: 10
+    SPACE: 9
+399da5c2-85e9-4e60-a6ba-c96728113e2c:
+  guesses:
+  - - TEMPLE
+    - MOUNT
+  - - MOUNT
+    - TEMPLE
+  - - TEMPLE
+    - MOUNT
+  - - TEMPLE
+    - MOUNT
+  - - MOUNT
+    - TEMPLE
+  - - TEMPLE
+    - OLIVE
+  - - TEMPLE
+    - OLIVE
+  - - TEMPLE
+    - MOUNT
+  - - TEMPLE
+    - OLIVE
+  - - TEMPLE
+    - OLIVE
+  votes:
+    CAP: 0
+    FACE: 0
+    MOUNT: 6
+    OLIVE: 4
+    SATURN: 0
+    SERVER: 0
+    TEMPLE: 10
+    THEATER: 0
+3da6de54-6aa9-4ef9-9120-5f4a0b69c073:
+  guesses:
+  - - DRESS
+    - SHOE
+  - - SHOE
+    - DRESS
+  - - SHOE
+    - DRESS
+  - - SHOE
+    - DRESS
+  - - DRESS
+    - SHOE
+  - - SHOE
+    - DRESS
+  - - BUTTON
+    - BOW
+  - - DRESS
+    - SHOE
+  - - DRESS
+    - SHOE
+  - - SHOE
+    - DRESS
+  votes:
+    BOW: 1
+    BUTTON: 1
+    DRESS: 9
+    FIRE: 0
+    NAIL: 0
+    PILOT: 0
+    PLANE: 0
+    SHOE: 9
+3f429e5c-90be-409d-9475-759287140338:
+  guesses:
+  - - POLICE
+    - FAIR
+  - - POLICE
+    - FAIR
+  - - POLICE
+    - FAIR
+  - - POLICE
+    - FAIR
+  - - POLICE
+    - FAIR
+  - - POLICE
+    - FAIR
+  - - POLICE
+    - FAIR
+  - - POLICE
+    - FAIR
+  - - POLICE
+    - FAIR
+  - - POLICE
+    - FAIR
+  votes:
+    DICE: 0
+    DWARF: 0
+    ENGINE: 0
+    FAIR: 10
+    MATCH: 0
+    PASS: 0
+    POLICE: 10
+    TELESCOPE: 0
+3f481c58-23bf-4702-96a9-7d454a619334:
+  guesses:
+  - - CENTAUR
+    - PLATYPUS
+  - - CENTAUR
+    - PLATYPUS
+  - - PLATYPUS
+    - CENTAUR
+  - - CENTAUR
+    - PLATYPUS
+  - - CENTAUR
+    - PLATYPUS
+  - - CENTAUR
+    - PLATYPUS
+  - - THUMB
+    - CENTAUR
+  - - PLATYPUS
+    - CENTAUR
+  - - CENTAUR
+    - PLATYPUS
+  - - CENTAUR
+    - PLATYPUS
+  votes:
+    ARM: 0
+    CENTAUR: 10
+    PLATYPUS: 9
+    ROCK: 0
+    SERVER: 0
+    SWITCH: 0
+    THUMB: 1
+    TRIANGLE: 0
+42f04d8c-155e-478e-8a89-f37a7cde0f72:
+  guesses:
+  - - CROSS
+    - SWING
+  - - CLUB
+    - SWING
+  - - CLUB
+    - COVER
+  - - CLUB
+    - SWING
+  - - CLUB
+    - SWING
+  - - CLUB
+    - SWING
+  - - CLUB
+    - SWING
+  - - CROSS
+    - SWING
+  - - CLUB
+    - SWING
+  - - CLUB
+    - SWING
+  votes:
+    CLUB: 8
+    COVER: 1
+    CROSS: 2
+    GRASS: 0
+    JUPITER: 0
+    OPERA: 0
+    SATELLITE: 0
+    SWING: 9
+44feb926-eb50-4fd0-9a86-ec1cb0cd5723:
+  guesses:
+  - - MICROSCOPE
+    - HEAD
+  - - MICROSCOPE
+    - HEAD
+  - - SCALE
+    - HEAD
+  - - MICROSCOPE
+    - SCALE
+  - - PAN
+    - MICROSCOPE
+  - - HEAD
+    - MICROSCOPE
+  - - MICROSCOPE
+    - SQUARE
+  - - MICROSCOPE
+    - PAN
+  - - HEAD
+    - SCALE
+  - - SQUARE
+    - SCALE
+  votes:
+    HEAD: 5
+    MICROSCOPE: 7
+    NEW YORK: 0
+    PAN: 2
+    PLOT: 0
+    PYRAMID: 0
+    SCALE: 4
+    SQUARE: 2
+491c0374-59d7-49f9-8e22-61e4cdd42090:
+  guesses:
+  - - CONCERT
+    - STRING
+  - - TRIP
+    - STRING
+  - - CONCERT
+    - STRING
+  - - STRING
+    - CONCERT
+  - - STRING
+    - CONCERT
+  - - STRING
+    - CONCERT
+  - - STRING
+    - SHOP
+  - - CONCERT
+    - SHOP
+  - - CONCERT
+    - STRING
+  - - STRING
+    - CONCERT
+  votes:
+    CONCERT: 8
+    FISH: 0
+    HAWK: 0
+    LOCH NESS: 0
+    SHOP: 2
+    STRING: 9
+    TRIP: 1
+    WATCH: 0
+4a5eeea8-4768-4559-a27c-2bbaba201032:
+  guesses:
+  - - BAR
+    - BELT
+  - - PISTOL
+    - BELT
+  - - HOLE
+    - BELT
+  - - BELT
+    - PISTOL
+  - - BELT
+    - PISTOL
+  - - BAR
+    - BELT
+  - - IVORY
+    - PISTOL
+  - - BELT
+    - HOLE
+  - - HOLE
+    - BELT
+  - - BELT
+    - PISTOL
+  votes:
+    BAR: 2
+    BELT: 9
+    CARROT: 0
+    HOLE: 3
+    IVORY: 1
+    OIL: 0
+    PISTOL: 5
+    SNOWMAN: 0
+4bdf2d46-08cf-48ab-a790-91d285ee9d42:
+  guesses:
+  - - DECK
+    - SINK
+  - - DECK
+    - SINK
+  - - DECK
+    - SINK
+  - - DECK
+    - SINK
+  - - DECK
+    - GROUND
+  - - SINK
+    - DECK
+  - - DECK
+    - SINK
+  - - DECK
+    - SINK
+  - - DECK
+    - SINK
+  - - DECK
+    - SINK
+  votes:
+    BOMB: 0
+    CHINA: 0
+    DECK: 10
+    GROUND: 1
+    INDIA: 0
+    NOVEL: 0
+    SINK: 9
+    WORM: 0
+54a29e40-b210-43d9-a86a-74986edc792f:
+  guesses:
+  - - MAPLE
+    - DESIDUOUS
+  - - MAPLE
+    - DESIDUOUS
+  - - MAPLE
+    - FALL
+  - - MAPLE
+    - FALL
+  - - MAPLE
+    - FALL
+  - - FALL
+    - MAPLE
+  - - MAPLE
+    - RABBIT
+  - - MAPLE
+    - FALL
+  - - MAPLE
+    - FALL
+  - - MAPLE
+    - FALL
+  votes:
+    BAT: 0
+    CHARGE: 0
+    DRAGON: 0
+    FALL: 7
+    KNIFE: 0
+    MAPLE: 10
+    POISON: 0
+    RABBIT: 1
+54a51ee2-4907-4302-a01c-2cdd893f089e:
+  guesses:
+  - - DICE
+    - ROULETTE
+  - - DICE
+    - ROULETTE
+  - - ROULETTE
+    - DICE
+  - - ROULETTE
+    - DICE
+  - - DICE
+    - BOX
+  - - ROULETTE
+    - DICE
+  - - ROULETTE
+    - DICE
+  - - DICE
+    - ROULETTE
+  - - DICE
+    - ROULETTE
+  - - DICE
+    - ROULETTE
+  votes:
+    BOX: 1
+    DICE: 10
+    HOLLYWOOD: 0
+    MOSCOW: 0
+    NOVEL: 0
+    ROULETTE: 9
+    STRAW: 0
+    THEATER: 0
+60de06f4-b7dd-454a-8f5f-28a62f5f59f7:
+  guesses:
+  - - FRANCE
+    - GREECE
+  - - FRANCE
+    - GREECE
+  - - GREECE
+    - FRANCE
+  - - GREECE
+    - FRANCE
+  - - GREECE
+    - FRANCE
+  - - GREECE
+    - FRANCE
+  - - FRANCE
+    - GREECE
+  - - GREECE
+    - FRANCE
+  - - FRANCE
+    - GREECE
+  - - GREECE
+    - FRANCE
+  votes:
+    BOTTLE: 0
+    DECK: 0
+    FRANCE: 10
+    GREECE: 10
+    MASS: 0
+    SPELL: 0
+    TIE: 0
+    WALL: 0
+68a5a261-b73b-4c5a-8f8e-1c9a82c96495:
+  guesses:
+  - - SQUARE
+    - CENTER
+  - - MOON
+    - SQUARE
+  - - SQUARE
+    - CENTER
+  - - SQUARE
+    - MOON
+  - - SQUARE
+    - CENTER
+  - - SQUARE
+    - CENTER
+  - - SQUARE
+    - CENTER
+  - - SQUARE
+    - CENTER
+  - - CENTER
+    - SQUARE
+  - - SQUARE
+    - CENTER
+  votes:
+    AZTEC: 0
+    CENTER: 8
+    FISH: 0
+    ICE: 0
+    LEMON: 0
+    MOON: 2
+    SQUARE: 10
+    TABLET: 0
+68af6af1-1b50-42dd-80e0-916db4e7e7bf:
+  guesses:
+  - - GHOST
+    - REVOLUTION
+  - - GHOST
+    - REVOLUTION
+  - - GHOST
+    - DWARF
+  - - GHOST
+    - DWARF
+  - - GHOST
+    - DWARF
+  - - GHOST
+    - REVOLUTION
+  - - GHOST
+    - REVOLUTION
+  - - GHOST
+    - DWARF
+  - - GHOST
+    - REVOLUTION
+  - - GHOST
+    - DWARF
+  votes:
+    BACK: 0
+    CELL: 0
+    CHOCOLATE: 0
+    DWARF: 5
+    GHOST: 10
+    NEW YORK: 0
+    REVOLUTION: 5
+    SQUARE: 0
+6b24c84b-ba4a-4090-bcf6-70acf7a78f8a:
+  guesses:
+  - - TICK
+    - WIND
+  - - TICK
+    - BUFFALO
+  - - TICK
+    - WIND
+  - - TICK
+    - WIND
+  - - TICK
+    - BUFFALO
+  - - TICK
+    - BUFFALO
+  - - TICK
+    - PLOT
+  - - TICK
+    - BUFFALO
+  - - BUFFALO
+    - TICK
+  - - TICK
+    - PLOT
+  votes:
+    BUFFALO: 5
+    CANADA: 0
+    DECK: 0
+    NOTE: 0
+    PLOT: 2
+    TICK: 10
+    WASHER: 0
+    WIND: 3
+6fac8c2a-25c6-48d1-9026-5116373550a4:
+  guesses:
+  - - DWARF
+    - RABBIT
+  - - DWARF
+    - SHOE
+  - - SHOE
+    - APPLE
+  - - DWARF
+    - SHOE
+  - - DWARF
+    - APPLE
+  - - DWARF
+    - SHOE
+  - - DWARF
+    - CROWN
+  - - DWARF
+    - CROWN
+  - - SHOE
+    - DWARF
+  - - DWARF
+    - GAS
+  votes:
+    APPLE: 2
+    COOK: 0
+    CROWN: 2
+    DWARF: 9
+    GAS: 1
+    RABBIT: 1
+    SHOE: 5
+    VACUUM: 0
+721bde71-7f0a-4b26-81f6-5662595766fb:
+  guesses:
+  - - CLIFF
+    - POINT
+  - - TOOTH
+    - CLIFF
+  - - CLIFF
+    - POINT
+  - - CLIFF
+    - POINT
+  - - SINK
+    - CLIFF
+  - - CLIFF
+    - POINT
+  - - CLIFF
+    - POINT
+  - - TOOTH
+    - POINT
+  - - TOOTH
+    - CLIFF
+  - - POINT
+    - CLIFF
+  votes:
+    BEIJING: 0
+    CLIFF: 9
+    DICE: 0
+    HORSE: 0
+    POINT: 7
+    SINK: 1
+    TOOTH: 3
+    VACUUM: 0
+749768a0-21cd-4a20-a13d-e5ecfc6d0f5d:
+  guesses:
+  - - HAND
+    - HORSE
+  - - HORSE
+    - MOLE
+  - - HAND
+    - MOLE
+  - - HAND
+    - MOLE
+  - - MOLE
+    - CHANGE
+  - - HAND
+    - MOLE
+  - - HAND
+    - MOLE
+  - - HAND
+    - HORSE
+  - - HAND
+    - HORSE
+  - - MOLE
+    - HAND
+  votes:
+    CHANGE: 1
+    DINOSAUR: 0
+    DRAGON: 0
+    EGYPT: 0
+    FOREST: 0
+    HAND: 8
+    HORSE: 4
+    MOLE: 7
+768e116b-5c42-4abe-a65c-d4381397fb72:
+  guesses:
+  - - TORCH
+    - MOUTH
+  - - TORCH
+    - TRAIN
+  - - TORCH
+    - FIREBOMB
+  - - TORCH
+    - PILOT
+  - - TORCH
+    - PILOT
+  - - PILOT
+    - TORCH
+  - - TRAIN
+    - PILOT
+  - - PILOT
+    - TORCH
+  - - TORCH
+    - PILOT
+  - - TORCH
+    - PILOT
+  votes:
+    BACK: 0
+    MAMMOTH: 0
+    MOSCOW: 0
+    MOUTH: 1
+    PILOT: 7
+    SCIENTIST: 0
+    TORCH: 9
+    TRAIN: 2
+78ea75b7-d341-4865-b411-063cc7ca59c6:
+  guesses:
+  - - KING
+    - FIGURE
+  - - KING
+    - FIGURE
+  - - KING
+    - FIGURE
+  - - KING
+    - FIGURE
+  - - KING
+    - FIGURE
+  - - KING
+    - FIGURE
+  - - KING
+    - HEAD
+  - - KING
+    - HEAD
+  - - KING
+    - FIGURE
+  - - KING
+    - HEAD
+  votes:
+    BAR: 0
+    CARD: 0
+    FIGURE: 7
+    HAM: 0
+    HEAD: 3
+    HONEY: 0
+    HOOD: 0
+    KING: 10
+7aecaf64-3602-4483-a350-5d06bdef9cac:
+  guesses:
+  - - HEART
+    - FALL
+  - - HEART
+    - THIEF
+  - - HEART
+    - FALL
+  - - HEART
+    - FALL
+  - - HEART
+    - DRESS
+  - - HEART
+    - PAN
+  - - HEART
+    - FALL
+  - - HEART
+    - FALL
+  - - HEART
+    - FALL
+  - - HEART
+    - FALL
+  votes:
+    BAT: 0
+    CLUB: 0
+    DRESS: 1
+    FALL: 7
+    HEART: 10
+    PAN: 1
+    PLATE: 0
+    THIEF: 1
+7c1c6030-80c6-4cf6-9931-6c45b29e52b0:
+  guesses:
+  - - PIRATE
+    - PILOT
+  - - PIRATE
+    - PILOT
+  - - PIRATE
+    - PILOT
+  - - PIRATE
+    - PILOT
+  - - PIRATE
+    - PILOT
+  - - PIRATE
+    - PILOT
+  - - PIRATE
+    - PILOT
+  - - PIRATE
+    - PILOT
+  - - PIRATE
+    - PILOT
+  - - PILOT
+    - PIRATE
+  votes:
+    BANK: 0
+    DIAMOND: 0
+    FOREST: 0
+    GAME: 0
+    PILOT: 10
+    PIRATE: 10
+    SPELL: 0
+    WALL: 0
+7dfe03b6-4a14-4981-9fce-d9b0fa93c7ae:
+  guesses:
+  - - PART
+    - JACK
+  - - PART
+    - COVER
+  - - JACK
+    - PART
+  - - WELL
+    - PART
+  - - LIMOUSINE
+    - PART
+  - - PART
+    - LIMOUSINE
+  - - PART
+    - JACK
+  - - JACK
+    - PART
+  - - JACK
+    - PART
+  - - JACK
+    - PART
+  votes:
+    BEAR: 0
+    BUTTON: 0
+    COVER: 1
+    DATE: 0
+    JACK: 6
+    LIMOUSINE: 2
+    PART: 10
+    WELL: 1
+8067c153-b4ef-453e-9da3-a70d93181303:
+  guesses:
+  - - TICK
+    - MOUSE
+  - - MOUSE
+    - TICK
+  - - TICK
+    - MOUSE
+  - - TICK
+    - MOUSE
+  - - MOUSE
+    - TICK
+  - - TICK
+    - MOUSE
+  - - MOUSE
+    - TICK
+  - - TICK
+    - MOUSE
+  - - MOUSE
+    - TICK
+  - - TICK
+    - MOUSE
+  votes:
+    BATTERY: 0
+    CAP: 0
+    CHURCH: 0
+    FIGHTER: 0
+    GAME: 0
+    MOUSE: 10
+    TICK: 10
+    WASHINGTON: 0
+85f4f2a2-b09d-4787-a94b-cc4cc1fd4855:
+  guesses:
+  - - DINOSAUR
+    - GREEN
+  - - DINOSAUR
+    - FILM
+  - - DINOSAUR
+    - FILM
+  - - DINOSAUR
+    - FILM
+  - - DINOSAUR
+    - GREEN
+  - - FILM
+    - DINOSAUR
+  - - DINOSAUR
+    - FILM
+  - - FILM
+    - DINOSAUR
+  - - DINOSAUR
+    - FRANCE
+  - - DINOSAUR
+    - FRANCE
+  votes:
+    DINOSAUR: 10
+    FILM: 6
+    FIRE: 0
+    FRANCE: 2
+    GREEN: 2
+    NAIL: 0
+    TORCH: 0
+    WHIP: 0
+8f4f536b-4ef1-49dd-b465-9dbbd4545ef6:
+  guesses:
+  - - PASTE
+    - CAST
+  - - PASTE
+    - PLASTER
+  - - CAST
+    - PASTE
+  - - CAST
+    - PASTE
+  - - PASTE
+    - CAST
+  - - CAST
+    - PASTE
+  - - CAST
+    - PASTE
+  - - PASTE
+    - CAST
+  - - PASTE
+    - CAST
+  - - CAST
+    - PASTE
+  votes:
+    CAST: 9
+    DICE: 0
+    MOSCOW: 0
+    PASTE: 10
+    RABBIT: 0
+    ROW: 0
+    SOCK: 0
+    UNDERTAKER: 0
+8f61ac27-58b1-44a8-b4c6-d1ed09856e58:
+  guesses:
+  - - CZECH
+    - STREAM
+  - - STREAM
+    - VET
+  - - CZECH
+    - STREAM
+  - - STREAM
+    - KING
+  - - CZECH
+    - KING
+  - - CZECH
+    - STREAM
+  - - CZECH
+    - STREAM
+  - - KING
+    - STREAM
+  - - STREAM
+    - CZECH
+  - - GAME
+    - CZECH
+  votes:
+    ANGEL: 0
+    BARK: 0
+    BOW: 0
+    CZECH: 7
+    GAME: 1
+    KING: 3
+    STREAM: 8
+    VET: 1
+8fe26699-f581-4307-b820-3d9f04411e33:
+  guesses:
+  - - CODE
+    - SHADOW
+  - - CODE
+    - REVOLUTION
+  - - CODE
+    - REVOLUTION
+  - - CODE
+    - CAST
+  - - CODE
+    - HAM
+  - - CODE
+    - REVOLUTION
+  - - CODE
+    - SHADOW
+  - - CODE
+    - CAST
+  - - CODE
+    - CAST
+  - - CODE
+    - REVOLUTION
+  votes:
+    CAST: 3
+    CODE: 10
+    HAM: 1
+    HORN: 0
+    KING: 0
+    REVOLUTION: 4
+    SCUBA DIVER: 0
+    SHADOW: 2
+91e77166-8cbc-415e-a3f7-e54e63cfe25b:
+  guesses:
+  - - MODEL
+    - SPY
+  - - MODEL
+    - SPY
+  - - MODEL
+    - SPY
+  - - MODEL
+    - SPY
+  - - SPY
+    - MODEL
+  - - SPY
+    - MODEL
+  - - MODEL
+    - SPY
+  - - MODEL
+    - SPY
+  - - CLUB
+    - MODEL
+  - - SPY
+    - MODEL
+  votes:
+    CLUB: 1
+    MODEL: 10
+    PLATE: 0
+    POUND: 0
+    SPY: 9
+    SQUARE: 0
+    TRIP: 0
+    TRUNK: 0
+92c63555-83d7-47d2-b3e5-c81aa3e92b08:
+  guesses:
+  - - BED
+    - FENCE
+  - - BED
+    - FENCE
+  - - FENCE
+    - BED
+  - - FENCE
+    - BED
+  - - FENCE
+    - BED
+  - - FENCE
+    - BED
+  - - BED
+    - FENCE
+  - - BED
+    - FENCE
+  - - BED
+    - FENCE
+  - - FENCE
+    - BED
+  votes:
+    BED: 10
+    FENCE: 10
+    GREEN: 0
+    LINK: 0
+    MASS: 0
+    MOSCOW: 0
+    RING: 0
+    SLUG: 0
+9955eb08-fe99-4710-9417-64507d1af7aa:
+  guesses:
+  - - MOON
+    - PUMPKIN
+  - - MOON
+    - PUMPKIN
+  - - MOON
+    - PUMPKIN
+  - - MOON
+    - PUMPKIN
+  - - MOON
+    - PUMPKIN
+  - - MOON
+    - PUMPKIN
+  - - MOON
+    - PUMPKIN
+  - - MOON
+    - PUMPKIN
+  - - PUMPKIN
+    - MOON
+  - - MOON
+    - PUMPKIN
+  votes:
+    BOARD: 0
+    DOG: 0
+    KID: 0
+    MOON: 10
+    PUMPKIN: 10
+    TEMPLE: 0
+    WALL: 0
+    WATER: 0
+a13ef486-b586-4c13-9ed4-6e6d9b5d4985:
+  guesses:
+  - - MEXICO
+    - CAPITAL
+  - - CAPITAL
+    - MEXICO
+  - - MEXICO
+    - JUPITER
+  - - MEXICO
+    - CAPITAL
+  - - MEXICO
+    - CAPITAL
+  - - MEXICO
+    - CAPITAL
+  - - MEXICO
+    - PUMPKIN
+  - - MEXICO
+    - CAPITAL
+  - - MEXICO
+    - CAPITAL
+  - - CAPITAL
+    - MEXICO
+  votes:
+    CAPITAL: 8
+    CONTRACT: 0
+    JUPITER: 1
+    KID: 0
+    MEXICO: 10
+    PUMPKIN: 1
+    TOKYO: 0
+    YARD: 0
+a2f4683e-be50-4d6b-813f-b18ed9b441dd:
+  guesses:
+  - - CRICKET
+    - MARCH
+  - - FILM
+    - STADIUM
+  - - STADIUM
+    - FILM
+  - - MARCH
+    - CRICKET
+  - - STADIUM
+    - CRICKET
+  - - MARCH
+    - FILM
+  - - MARCH
+    - STADIUM
+  - - MARCH
+    - FILM
+  - - MARCH
+    - BRIDGE
+  - - CRICKET
+    - STADIUM
+  votes:
+    BRIDGE: 1
+    CRICKET: 4
+    DISEASE: 0
+    FILM: 4
+    LAWYER: 0
+    MARCH: 6
+    PHOENIX: 0
+    STADIUM: 5
+a2f71312-e1df-4b8e-b981-cf50b7f3d6c2:
+  guesses:
+  - - LIFE
+    - ORGAN
+  - - MOUSE
+    - PLATYPUS
+  - - LIFE
+    - ORGAN
+  - - LIFE
+    - ORGAN
+  - - ORGAN
+    - LIFE
+  - - LIFE
+    - ORGAN
+  - - LIFE
+    - ORGAN
+  - - LIFE
+    - ORGAN
+  - - LIFE
+    - PLATYPUS
+  - - PLATYPUS
+    - MOUSE
+  votes:
+    AMAZON: 0
+    BOW: 0
+    FAIR: 0
+    LIFE: 8
+    MOUSE: 2
+    ORGAN: 7
+    PLATYPUS: 3
+    SOUND: 0
+ac49ff97-062d-4dcd-a214-1b439056623b:
+  guesses:
+  - - BOARD
+    - SCREEN
+  - - CAP
+    - BOARD
+  - - CAP
+    - BOARD
+  - - BOARD
+    - CAP
+  - - BOLT
+    - BOARD
+  - - BOARD
+    - SCREEN
+  - - BOARD
+    - SCREEN
+  - - BOARD
+    - SCREEN
+  - - BOARD
+    - SCREEN
+  - - CAP
+    - BOARD
+  votes:
+    AMERICA: 0
+    BOARD: 10
+    BOLT: 1
+    CAP: 4
+    HEART: 0
+    HOOK: 0
+    SCREEN: 5
+    TRIP: 0
+b5db62bf-7261-4db0-bce3-f2f57c2bfe71:
+  guesses:
+  - - PUPIL
+    - LIFE
+  - - PUPIL
+    - LIFE
+  - - PUPIL
+    - LIFE
+  - - PUPIL
+    - SCUBA DIVER
+  - - LIFE
+    - PUPIL
+  - - PUPIL
+    - SCUBA DIVER
+  - - PUPIL
+    - SCUBA DIVER
+  - - SCUBA DIVER
+    - PUPIL
+  - - PUPIL
+    - LIFE
+  - - LIFE
+    - PUPIL
+  votes:
+    BERLIN: 0
+    LIFE: 6
+    MICROSCOPE: 0
+    PLANE: 0
+    PUPIL: 10
+    SCUBA DIVER: 4
+    SWITCH: 0
+    WHALE: 0
+b90d2d77-00b1-4ef2-beb7-8ca4e58f130f:
+  guesses:
+  - - NOTE
+    - WAKE
+  - - NOTE
+    - TABLE
+  - - NOTE
+    - COVER
+  - - NOTE
+    - WRITE
+  - - NOTE
+    - COVER
+  - - NOTE
+    - COVER
+  - - NOTE
+    - COVER
+  - - NOTE
+    - PART
+  - - NOTE
+    - COVER
+  - - NOTE
+    - COVER
+  votes:
+    COVER: 6
+    MAMMOTH: 0
+    MICROSCOPE: 0
+    NOTE: 10
+    PART: 1
+    PUMPKIN: 0
+    TABLE: 1
+    WAKE: 1
+b933d451-56f0-4392-895e-d8098a29a49f:
+  guesses:
+  - - ROOT
+    - FOREST
+  - - FOREST
+    - ROOT
+  - - FOREST
+    - ROOT
+  - - FOREST
+    - ROOT
+  - - FOREST
+    - ROOT
+  - - FOREST
+    - ROOT
+  - - ROOT
+    - FOREST
+  - - FOREST
+    - ROOT
+  - - FOREST
+    - ROOT
+  - - FOREST
+    - ROOT
+  votes:
+    BALL: 0
+    FIGURE: 0
+    FOREST: 10
+    LIFE: 0
+    PARACHUTE: 0
+    ROOT: 10
+    SUPERHERO: 0
+    TRAIN: 0
+c10edb38-f04c-4bba-9e3d-a1fe186ae2a2:
+  guesses:
+  - - KNIFE
+    - STAB
+  - - KNIFE
+    - DEATH
+  - - KNIFE
+    - PIRATE
+  - - KNIFE
+    - DEATH
+  - - KNIFE
+    - PUPIL
+  - - DEATH
+    - KNIFE
+  - - PIRATE
+    - KNIFE
+  - - KNIFE
+    - PIRATE
+  - - KNIFE
+    - DEATH
+  - - KNIFE
+    - DEATH
+  votes:
+    DEATH: 5
+    HOTEL: 0
+    KNIFE: 10
+    PIRATE: 3
+    POOL: 0
+    PUPIL: 1
+    SERVER: 0
+    SINK: 0
+c1520320-ced3-46a6-9f3e-e721506d207c:
+  guesses:
+  - - WAR
+    - STAFF
+  - - WAR
+    - STAFF
+  - - WAR
+    - BEAR
+  - - STAFF
+    - CONDUCTOR
+  - - WAR
+    - STAFF
+  - - WAR
+    - STAFF
+  - - WAR
+    - STAFF
+  - - WAR
+    - STAFF
+  - - STAFF
+    - WAR
+  - - WAR
+    - STAFF
+  votes:
+    AFRICA: 0
+    BEAR: 1
+    CONDUCTOR: 1
+    FOREST: 0
+    SCIENTIST: 0
+    STAFF: 9
+    SWING: 0
+    WAR: 9
+c6d31d79-355f-44d4-a725-66cf805efc84:
+  guesses:
+  - - WITCH
+    - UNICORN
+  - - WITCH
+    - UNICORN
+  - - WITCH
+    - UNICORN
+  - - UNICORN
+    - WITCH
+  - - UNICORN
+    - MERCURY
+  - - WITCH
+    - UNICORN
+  - - WITCH
+    - UNICORN
+  - - WITCH
+    - UNICORN
+  - - WITCH
+    - MERCURY
+  - - WITCH
+    - UNICORN
+  votes:
+    BOOT: 0
+    DOG: 0
+    FACE: 0
+    MERCURY: 2
+    PENGUIN: 0
+    SPIDER: 0
+    UNICORN: 9
+    WITCH: 9
+cfbf7872-b4cd-4623-aac4-f04cb27cebb9:
+  guesses:
+  - - DRILL
+    - POLE
+  - - OIL
+    - DRILL
+  - - POLE
+    - COMPOUND
+  - - OIL
+    - POLE
+  - - POLE
+    - DRILL
+  - - DRILL
+    - POLE
+  - - DRILL
+    - OIL
+  - - OIL
+    - POLE
+  - - DRILL
+    - POLE
+  - - DRILL
+    - POLE
+  votes:
+    CAP: 0
+    COMIC: 0
+    COMPOUND: 1
+    DRILL: 7
+    EAGLE: 0
+    OIL: 4
+    POLE: 8
+    STAFF: 0
+d536125c-7b09-4724-b22b-1ae874a813bd:
+  guesses:
+  - - BRUSH
+    - PART
+  - - BRUSH
+    - TAP
+  - - BRUSH
+    - PART
+  - - BRUSH
+    - TAP
+  - - BRUSH
+    - PART
+  - - BRUSH
+    - PART
+  - - BRUSH
+    - PART
+  - - BRUSH
+    - PART
+  - - PART
+    - BRUSH
+  - - BRUSH
+    - PART
+  votes:
+    ANTARCTICA: 0
+    AZTEC: 0
+    BRUSH: 10
+    PART: 8
+    SHARK: 0
+    SLIP: 0
+    TABLE: 0
+    TAP: 2
+d6096ad4-e016-4260-8944-385f8c12540e:
+  guesses:
+  - - VET
+    - DOG
+  - - DOG
+    - VET
+  - - VET
+    - DOG
+  - - DOG
+    - VET
+  - - DOG
+    - VET
+  - - DOG
+    - VET
+  - - VET
+    - DOG
+  - - DOG
+    - VET
+  - - DOG
+    - VET
+  - - DOG
+    - VET
+  votes:
+    BOTTLE: 0
+    CAPITAL: 0
+    DOG: 10
+    DRAGON: 0
+    GERMANY: 0
+    QUEEN: 0
+    SERVER: 0
+    VET: 10
+d7505f18-5021-49a2-a785-5dbd58a73b61:
+  guesses:
+  - - TAIL
+    - GROUND
+  - - AUSTRALIA
+    - TAIL
+  - - AUSTRALIA
+    - TAIL
+  - - TAIL
+    - FACE
+  - - AUSTRALIA
+    - TAIL
+  - - TAIL
+    - AUSTRALIA
+  - - TAIL
+    - AUSTRALIA
+  - - TAIL
+    - FACE
+  - - AUSTRALIA
+    - TAIL
+  - - TAIL
+    - LEAD
+  votes:
+    AUSTRALIA: 6
+    DOCTOR: 0
+    FACE: 2
+    GROUND: 1
+    LEAD: 1
+    PIN: 0
+    SMUGGLER: 0
+    TAIL: 10
+da12e6fe-f143-4e55-854c-09f63b8f4696:
+  guesses:
+  - - BAND
+    - PAN
+  - - FAN
+    - PAN
+  - - FAN
+    - PAN
+  - - BAND
+    - PAN
+  - - PAN
+    - FAN
+  - - BAND
+    - FAN
+  - - PAN
+    - BAND
+  - - PAN
+    - FAN
+  - - BAND
+    - PAN
+  - - BAND
+    - MINE
+  votes:
+    BAND: 6
+    CENTAUR: 0
+    FAN: 5
+    HOSPITAL: 0
+    MINE: 1
+    PAN: 8
+    SHAKESPEARE: 0
+    TEACHER: 0
+de0c64e4-7e0b-4e0e-963c-7785eb8cdaab:
+  guesses:
+  - - SNOW
+    - CELL
+  - - BOTTLE
+    - SNOW
+  - - BOTTLE
+    - SNOW
+  - - BOTTLE
+    - SNOW
+  - - BOTTLE
+    - SNOW
+  - - SNOW
+    - BOTTLE
+  - - BOTTLE
+    - CELL
+  - - BOTTLE
+    - CELL
+  - - BOTTLE
+    - CELL
+  - - SNOW
+    - BOTTLE
+  votes:
+    ANTARCTICA: 0
+    BOTTLE: 9
+    CELL: 4
+    CENTAUR: 0
+    HORN: 0
+    LEPRECHAUN: 0
+    SCREEN: 0
+    SNOW: 7
+df8c5f2d-5839-4296-a116-0f16d96baa88:
+  guesses:
+  - - PIPE
+    - PISTOL
+  - - PISTOL
+    - PIPE
+  - - PIPE
+    - PISTOL
+  - - PISTOL
+    - PIPE
+  - - BRUSH
+    - PISTOL
+  - - PISTOL
+    - PIPE
+  - - PIPE
+    - PISTOL
+  - - PISTOL
+    - PIPE
+  - - PIPE
+    - BRUSH
+  - - PISTOL
+    - PIPE
+  votes:
+    BEACH: 0
+    BRUSH: 2
+    DISEASE: 0
+    GAME: 0
+    MOSCOW: 0
+    PIPE: 9
+    PISTOL: 9
+    SOCK: 0
+e29ecb68-8bf3-4c1c-875e-f1b904666129:
+  guesses:
+  - - PYRAMID
+    - EGYPT
+  - - PYRAMID
+    - EGYPT
+  - - PYRAMID
+    - TEMPLE
+  - - EGYPT
+    - PYRAMID
+  - - EGYPT
+    - PYRAMID
+  - - PYRAMID
+    - EGYPT
+  - - TEMPLE
+    - PYRAMID
+  - - EGYPT
+    - PYRAMID
+  - - PYRAMID
+    - TEMPLE
+  - - PYRAMID
+    - EGYPT
+  votes:
+    DUCK: 0
+    EGYPT: 7
+    GLASS: 0
+    NEEDLE: 0
+    PYRAMID: 10
+    SHOT: 0
+    TELESCOPE: 0
+    TEMPLE: 3
+e80ef352-b4cc-4714-98da-c86815956ef0:
+  guesses:
+  - - CRANE
+    - HOLE
+  - - DRAGON
+    - CRANE
+  - - VET
+    - CRANE
+  - - CRANE
+    - HOLE
+  - - FILE
+    - VET
+  - - CRANE
+    - HOLE
+  - - CRANE
+    - FILE
+  - - ROCK
+    - HOLE
+  - - HOLE
+    - CRANE
+  - - CRANE
+    - DRAGON
+  votes:
+    CRANE: 8
+    DRAGON: 2
+    FILE: 2
+    HOLE: 5
+    ROCK: 1
+    SHAKESPEARE: 0
+    TAP: 0
+    VET: 2
+f3fb34b2-d866-4745-904e-aa802a783ef1:
+  guesses:
+  - - CENTER
+    - SPACE
+  - - MASS
+    - SPACE
+  - - MASS
+    - CENTER
+  - - MASS
+    - CENTER
+  - - CENTER
+    - MASS
+  - - CENTER
+    - MASS
+  - - ALPS
+    - CENTER
+  - - CENTER
+    - MASS
+  - - MASS
+    - CENTER
+  - - MASS
+    - PLOT
+  votes:
+    ALPS: 1
+    AUSTRALIA: 0
+    CENTER: 8
+    KIWI: 0
+    LAWYER: 0
+    MASS: 8
+    PLOT: 1
+    SPACE: 2
+f44211c5-3328-402c-81d7-b58373218154:
+  guesses:
+  - - AFRICA
+    - JUPITER
+  - - GIANT
+    - AFRICA
+  - - AFRICA
+    - JUPITER
+  - - AFRICA
+    - JUPITER
+  - - NINJA
+    - AFRICA
+  - - GIANT
+    - AFRICA
+  - - JUPITER
+    - AFRICA
+  - - AFRICA
+    - JUPITER
+  - - JUPITER
+    - AFRICA
+  - - JUPITER
+    - AFRICA
+  votes:
+    AFRICA: 10
+    CAP: 0
+    CONCERT: 0
+    DRESS: 0
+    GIANT: 2
+    JUPITER: 7
+    NIGHT: 0
+    NINJA: 1
+fba8f593-3590-480f-b1ce-dbd391529172:
+  guesses:
+  - - FIRE
+    - POOL
+  - - FIRE
+    - MERCURY
+  - - FIRE
+    - MERCURY
+  - - FIRE
+    - MERCURY
+  - - FIRE
+    - BEAT
+  - - FIRE
+    - MERCURY
+  - - FIRE
+    - MERCURY
+  - - FIRE
+    - BEAT
+  - - FIRE
+    - MERCURY
+  - - FIRE
+    - MERCURY
+  votes:
+    BEAT: 2
+    FENCE: 0
+    FIRE: 10
+    MERCURY: 7
+    NOVEL: 0
+    POOL: 1
+    SUB: 0
+    SUPERHERO: 0

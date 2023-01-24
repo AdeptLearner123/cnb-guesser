@@ -8,10 +8,14 @@ packages = [{include = "cnb_guesser"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
+tqdm = "^4.64.1"
+gensim = "^4.3.0"
+openai = "^0.26.1"
+PyYAML = "^6.0"
 
 [tool.poetry.scripts]
-generate-guesses = "cnb_clue_generator.generate_guesses:main"
-evaluate-guesses    = "cnb_clue_generator.evaluate_guesses:main"
+generate-guesses = "cnb_guesser.generate_guesses:main"
+evaluate-guesses = "cnb_guesser.evaluate_guesses:main"
 
 [build-system]
 requires = ["poetry-core"]

@@ -1,5 +1,7 @@
 from .gpt_guesser import GPTGuesser
 
+from config import RELATION_FEW_SHOT_PROMPT
+
 class RelationGuesser(GPTGuesser):
     def guess(self, words, clue, num):
         self._completer.clear_history()
@@ -24,6 +26,19 @@ class RelationGuesser(GPTGuesser):
 
 
     def _get_relation(self, word1, word2):
-        prompt = f"Explain why \"{ word1.lower() }\" and \"{ word2.lower() }\" might be related."
+        prompt = f"In one sentence, explain why \"{ word1.lower() }\" and \"{ word2.lower() }\" might be related."
+        completion = self._completer._get_completion(prompt)
+        return completion.strip()
+
+
+class FewShotRelationGuesser(RelationGuesser):
+    def __init__(self):
+        super().__init__()
+        with open(RELATION_FEW_SHOT_PROMPT, "r") as file:
+            self._few_shot_prompt = file.read()
+
+    def _get_relation(self, word1, word2):
+        prompt = self._few_shot_prompt + \
+            f"{word1}, {word2}:"
         completion = self._completer._get_completion(prompt)
         return completion.strip()

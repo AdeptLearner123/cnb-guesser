@@ -41,7 +41,7 @@ class GPTCompleter:
     def _get_completion(self, prompt):
         completion = openai.Completion.create(engine="text-davinci-003", prompt=prompt, temperature=0, top_p=1, max_tokens=256)
         self._update_usage(completion.usage)
-        time.sleep(1)
+        time.sleep(0.2)
         completion_text = completion.choices[0].text
         self._history.append({
             "prompt": prompt,
